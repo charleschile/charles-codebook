@@ -1,3 +1,15 @@
+Madrid Barcelona
+Barcelona Madrid, Sevilla
+Sevilla Barcelona, Malaga
+Malaga Sevilla, Villarreal
+Villarreal Malaga, Valencia
+Valencia Villarreal, London
+London Valencia, Manchester
+Manchester London, Birmingham
+Birmingham Manchester, Liverpool
+Liverpool Birmingham, Edinburgh
+Edinburgh Liverpool, Glasgow
+Glasgow Edinburgh
 
 
 myMap.connectTerritory("Madrid", "Barcelona");  
