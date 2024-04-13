@@ -20,6 +20,10 @@ int[] array = new int[256];
 // String
 int n = s.length();
 
+// 最大最小值
+int ans = Math.max(a, b);
+
+
 ```
 
 ### 无法`map.put(ch, map.get(ch) ++);`
