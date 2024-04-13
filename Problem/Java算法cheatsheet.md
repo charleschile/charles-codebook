@@ -22,7 +22,8 @@ int n = s.length();
 
 // 最大最小值
 int ans = Math.max(a, b);
-
+long x = Long.MAX_VALUE;
+int y = Integer.MAX_VALUE;
 
 ```
 
