@@ -10,10 +10,12 @@ java中基本类型比如int, double, char在java中都是通过值传递的，�
 Map<Integer, Integer> hash = new HashMap<Integer, Integer>();
 hash.containsKey(x);
 hash.get(target - x);
+hash.put(i, x);
 
 // 数组
 return new int[] {i, x, 3};
-
+return new int[0]; // 注意这里只能是int[0]后面不用跟括号！
+int[] array = new int[256];
 
 
 ```
