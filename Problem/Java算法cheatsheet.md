@@ -17,6 +17,8 @@ return new int[] {i, x, 3};
 return new int[0]; // 注意这里只能是int[0]后面不用跟括号！
 int[] array = new int[256];
 
+// String
+int n = s.length();
 
 ```
 
