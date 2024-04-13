@@ -1,6 +1,5 @@
 
 
-
 myMap.connectTerritory("Madrid", "Barcelona");  
 myMap.connectTerritory("Barcelona", "Sevilla");  
 myMap.connectTerritory("Sevilla", "Malaga");  
