@@ -1,3 +1,8 @@
+## 与C++刷题的区别
+### 引用对象和传递值
+java中基本类型比如int, double, char在java中都是
+
+
 ### [1. 两数之和](https://leetcode.cn/problems/two-sum/)
 
 > 注意哈希表的声明，containsKey, get, put各种api
