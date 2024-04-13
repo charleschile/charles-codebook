@@ -68,4 +68,28 @@ class Solution {
 #### 方法一：使用普通数组
 ### 方法二：使用哈希表
 
-### 方法三：使用
+
+### 方法三：使用哈希集合
+```java
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+        // 使用双指针
+        // i代表以i结尾的字符串
+        // 使用哈希集合
+        Set<Character> hash = new HashSet<Character>();
+        int n = s.length();
+        if (n == 0) return 0;
+        int ans = 1;
+        for (int i = 0, j = 0; i < n; i++) {
+            char c = s.charAt(i);
+            while (hash.contains(c)) {
+                hash.remove(s.charAt(j));
+                j++;
+            }
+            hash.add(c);
+            ans = Math.max(ans, i - j + 1);
+        }
+        return ans;
+    }
+}
+```

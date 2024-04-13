@@ -12,6 +12,15 @@ hash.containsKey(x);
 hash.get(target - x);
 hash.put(i, x);
 
+// hashset
+Map<Character> hash = new HashMapK<Character>();
+while (hash.contains(c)) {
+    hash.remove(s.charAt(j));
+    j++;
+}
+hash.add(c);
+
+
 // 数组
 return new int[] {i, x, 3};
 return new int[0]; // 注意这里只能是int[0]后面不用跟括号！
