@@ -11,11 +11,28 @@
             "id": "5349fb314b69d32c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Problem/Java算法cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95daa9489b8e6fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "杂事.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "杂事.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "杂事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "杂事.md"
+              }
             }
           }
         ],
@@ -139,13 +160,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5349fb314b69d32c",
+  "active": "95daa9489b8e6fee",
   "lastOpenFiles": [
-    "TODO.md",
-    "SSM/SSM.md",
-    "SSM",
-    "Problem/LeetCode从头刷.md",
     "Problem/Java算法cheatsheet.md",
+    "杂事.md",
+    "Problem/LeetCode从头刷.md",
+    "SSM/SSM.md",
+    "需要整合的内容/未命名.md",
+    "国内面试/自己携程面试.md",
+    "国内面试/自己面试问题.md",
+    "TODO.md",
+    "SSM",
     "Problem",
     "pics/截屏2024-04-13 16.31.18.png",
     "pics",
@@ -157,12 +182,9 @@
     "Java/Java并发编程.md",
     "Java/Java基础.md",
     "Java",
-    "需要整合的内容/未命名.md",
     "需要整合的内容",
     "进度对照表.md",
     "国内面试/自己面试面经.md",
-    "国内面试/自己面试问题.md",
-    "国内面试/自己携程面试.md",
     "国内面试/携程cqj面经.md",
     "国内面试/常考内容.md",
     "国内面试",
@@ -177,7 +199,6 @@
     "国内面试 2/Problem/LeetCode从头刷.md",
     "国内面试 2/Problem/Java算法cheatsheet.md",
     "国内面试 2/Java/Java集合.md",
-    "国内面试 2/Java/Java设计模式.md",
     "国内面试 2/需要整合的内容",
     "国内面试 2/国内面试",
     "国内面试 2/pics",
