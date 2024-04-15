@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂事.md",
+                "file": "需要整合的内容/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a162d2bd5cef363d",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂事.md",
+                "file": "需要整合的内容/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂事.md",
+                "file": "需要整合的内容/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂事.md"
+                "file": "需要整合的内容/未命名.md"
               }
             }
           }
@@ -158,20 +157,25 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "95daa9489b8e6fee",
   "lastOpenFiles": [
-    "Problem/Java算法cheatsheet.md",
+    "TODO.md",
+    "Java/Java集合.md",
+    "Java/Java并发编程.md",
+    "Java/Java基础.md",
+    "Java/Java设计模式.md",
+    "需要整合的内容/未命名.md",
+    "国内面试/常考内容.md",
+    "国内面试/携程cqj面经.md",
+    "国内面试/自己面试问题.md",
     "杂事.md",
+    "Problem/Java算法cheatsheet.md",
     "Problem/LeetCode从头刷.md",
     "SSM/SSM.md",
-    "需要整合的内容/未命名.md",
     "国内面试/自己携程面试.md",
-    "国内面试/自己面试问题.md",
-    "TODO.md",
     "SSM",
     "Problem",
     "pics/截屏2024-04-13 16.31.18.png",
@@ -179,16 +183,10 @@
     "Pasted image 20240412160319.png",
     "Pasted image 20240412155944.png",
     "Pasted image 20240411161209.png",
-    "Java/Java集合.md",
-    "Java/Java设计模式.md",
-    "Java/Java并发编程.md",
-    "Java/Java基础.md",
     "Java",
     "需要整合的内容",
     "进度对照表.md",
     "国内面试/自己面试面经.md",
-    "国内面试/携程cqj面经.md",
-    "国内面试/常考内容.md",
     "国内面试",
     "国内面试 2/需要整合的内容/未命名.md",
     "国内面试 2/国内面试/自己面试面经.md",
