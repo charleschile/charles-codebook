@@ -7,15 +7,16 @@ acwing java语法基础课（一共十一个视频）：
 https://www.acwing.com/activity/content/2230/
 
 #### 1.2 java基础
-韩顺平java（一共910集）：
+韩顺平java（一共910集，300小时）：
 https://www.bilibili.com/video/BV1fh411y7R8?p=361&vd_source=eef58fdde5150dcee73d678306f9cd48
 
 
 #### linux命令
-
-
+黑马linux（61集，13小时）：
+https://www.bilibili.com/video/BV1n84y1i7td?p=43&vd_source=eef58fdde5150dcee73d678306f9cd48
 
 #### SQL
+
 
 
 #### jvm
