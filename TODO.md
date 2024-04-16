@@ -16,7 +16,11 @@ https://www.bilibili.com/video/BV1fh411y7R8?p=361&vd_source=eef58fdde5150dcee73d
 https://www.bilibili.com/video/BV1n84y1i7td?p=43&vd_source=eef58fdde5150dcee73d678306f9cd48
 
 #### SQL
+sql牛客刷题基础入门（一个小时半，40道题目）
+https://www.bilibili.com/video/BV1Zx421U7qZ/?spm_id_from=333.999.0.0&vd_source=d6dc304a4e0a0d6c4dd8521978805226
 
+sql牛客全部难题：
+https://www.bilibili.com/video/BV1ix4y1S7iz/?spm_id_from=333.999.0.0&vd_source=eef58fdde5150dcee73d678306f9cd48
 
 
 黑马mysql数据库视频（195集，30小时）：
@@ -33,6 +37,7 @@ https://www.bilibili.com/video/BV1Kr4y1i7ru/?spm_id_from=333.337.search-card.all
 
 ### 2. 实操项目
 #### SSM
+
 
 #### SpringBoot框架课
 
