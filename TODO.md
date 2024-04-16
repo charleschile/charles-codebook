@@ -19,6 +19,10 @@ https://www.bilibili.com/video/BV1n84y1i7td?p=43&vd_source=eef58fdde5150dcee73d6
 
 
 
+黑马mysql数据库视频（195集，30小时）：
+https://www.bilibili.com/video/BV1Kr4y1i7ru/?spm_id_from=333.337.search-card.all.click&vd_source=eef58fdde5150dcee73d678306f9cd48
+
+
 #### jvm
 
 
