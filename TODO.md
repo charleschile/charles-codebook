@@ -3,8 +3,7 @@
 ### 1. 实操基础
 
 #### 1.1 java语法基础课
-acwing java语法基础课：
-
+acwing java语法基础课
 
 
 #### 1.2 java基础
