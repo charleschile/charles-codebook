@@ -1,9 +1,16 @@
 ## 长期规划
 
 ### 1. 实操基础
-#### java基础
 
-#### java语法基础课
+#### 1.1 java语法基础课
+
+
+
+#### 1.2 java基础
+韩顺平java：
+https://www.bilibili.com/video/BV1fh411y7R8?p=361&vd_source=eef58fdde5150dcee73d678306f9cd48
+
+
 #### linux命令
 #### SQL
 #### jvm
