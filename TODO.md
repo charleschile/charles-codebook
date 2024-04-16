@@ -1,5 +1,7 @@
 ## 长期规划
 
+
+
 ### 1. 实操基础
 
 #### 1.1 java语法基础课
@@ -60,7 +62,8 @@ https://www.bilibili.com/video/BV1m84y1w7Tb/?spm_id_from=333.337.search-card.all
 
 
 #### 微服务
-
+黑马微服务（44小时）
+https://search.bilibili.com/all?keyword=%E5%BE%AE%E6%9C%8D%E5%8A%A1&from_source=webtop_search&spm_id_from=333.788&search_source=5
 
 
 ### 3. 面向面试
