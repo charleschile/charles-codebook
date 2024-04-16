@@ -48,6 +48,10 @@ https://www.acwing.com/activity/content/1877/
 
 ### javaweb
 
+黑马javaweb（42小时，200集）
+https://www.bilibili.com/video/BV1m84y1w7Tb/?spm_id_from=333.337.search-card.all.click&vd_source=eef58fdde5150dcee73d678306f9cd48 
+
+
 
 ### 苍穹外卖
 
