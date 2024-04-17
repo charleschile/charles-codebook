@@ -36,21 +36,31 @@ Urgent deadlines are also dangerous
 > This pattern includes emails claiming that you have won a lottery when you never purchase one, offer of a large cash discount on something that you never purchased, large prize money in a contest that you never enrolled for and so on. The actual intention is usually to direct you to a site where the scammers can get your personal or financial information.
 
 
+despite these mentioned before, there are also other techniques and tools can protect us against phishing 
+
 
 > 1.Email Filters: Implementing advanced email filtering solutions can help detect phishing emails before they reach the inbox. These filters analyze incoming messages for phishing indicators like suspicious sender addresses or malicious links.
 
-> 2.Multi-Factor Authentication (MFA): Even if attackers obtain credentials through phishing, MFA can prevent them from gaining access to accounts. MFA requires users to provide additional verification (e.g., a code sent to a phone) beyond just a username and password.
-
->3.Regular Software Updates: Keeping software up to date, including email clients, web browsers, and operating systems, helps protect against phishing attacks that exploit software vulnerabilities.
 
 
-> [Backing up your data](http://www.upguard.com/blog/how-to-back-up-your-data) to an external hard drive or cloud server is one of the easiest risk mitigation practices. In the case of a ransomware attack, the user can wipe the computer clean and reinstall the backup files.
+> 2.Multi-Factor Authentication (MFA): MFA requires users to provide additional verification (e.g., a code sent to a phone) beyond just a username and password. Even if attackers obtain credentials through phishing, MFA can prevent them from gaining access to out accounts. 
 
-> Always keep your operating system, web browser, antivirus, and any other software you use updated to the latest version available. Malware, viruses, and ransomware are constantly evolving with new variants that can bypass your old security features, so you'll want to make sure everything is patched and up-to-date.
 
-> Comprehensive antivirus and anti-malware software are the most common ways to defend against ransomware. They can scan, detect, and respond to [cyber threats](https://www.upguard.com/blog/cyber-threat). However, you'll also need to configure your firewall since antivirus software only works at the internal level and can only detect the attack once it is already in the system.
-> [Firewalls](https://us.norton.com/internetsecurity-emerging-threats-what-is-firewall.html) are often the first line of defense against any incoming, external attacks. It can protect against _both_ software and hardware-based attacks. Firewalls are essential for any business or private network because they can filter out and block suspicious data packets from entering the system.
 
+>3.Regular Software Updates: Keeping software up to date, including email clients, web browsers, and operating systems, helps protect against phishing attacks that make use of software vulnerabilities.
+
+
+
+Here are the methods to protect us aginst ransomeware
+
+
+>1.  [Backing up your data](http://www.upguard.com/blog/how-to-back-up-your-data) to an external hard drive or cloud server is one of the easiest risk mitigation practices. In the case of a ransomware attack, the user can just wipe the computer clean and reinstall the backup files.
+
+> 2. Always keep your operating system, web browser, antivirus, and any other software you use updated to the latest version available. Malware, viruses, and ransomware are constantly evolving with new variants that can bypass your old security features, so you'll want to make sure everything is patched and up-to-date.
+
+> Also, Comprehensive antivirus and anti-malware software are the most common ways to defend against ransomware. They can scan, detect, and respond to [cyber threats](https://www.upguard.com/blog/cyber-threat). 
+
+The last one is application white listing 
 > Whitelisting determines which applications can be downloaded and executed on a network. Any unauthorized program or website that is not whitelisted will be restricted or blocked in the case an employee or user accidentally downloads an infected program or visits a corrupted site. Using whitelisting software like Windows AppLocker, you can also "blacklist" or block specific programs and websites.
 
 
@@ -60,15 +70,47 @@ Urgent deadlines are also dangerous
 
 
 Of course, despite all the security measures in place, it's still possible to become a victim of ransomware.
-The first 
+Here are the suggestions for you after a ransomware
 
-> **Do NOT pay the ransom** - Security experts and law enforcement agencies strongly advise against paying the ransom because this only encourages attackers to continue their criminal activity. In many cases, there's no guarantee the attacks will provide a working decryption key. Even with a key, the data may become corrupted, resulting in permanent loss.
+> 1. **Do NOT pay the ransom** - Security experts and law enforcement agencies strongly advise against paying the ransom because this only encourages attackers to continue their criminal activity. In many cases, there's no guarantee the attacks will provide a working decryption key. Even with a key, the data may become corrupted, resulting in permanent loss.
 
-> **Isolate infected systems** - To prevent a further breach, users should immediately disconnect their device from the network and all wireless connectivity (Wi-Fi, Bluetooth). Although the ransomware may have already affected other users, isolation can limit the scope of infection in the network.
-
-
-> - **Identify the source** - Figuring out where the malware originated from can help locate the entry point of the ransomware. This information can provide the organization with valuable information to further improve security practices and training.
-
-> - **Report attack to authorities** - Ransomware is a crime that should be reported to authorities for further investigation. However, another benefit is that law enforcement agencies may have access to more advanced recovery tools and software not available to most organizations. In some cases, recovering stolen or compromised data and catching perpetrators is possible.
+> 2. **Isolate infected systems** - To prevent a further breach, users should immediately disconnect their device from the network and all wireless connectivity (Wi-Fi, Bluetooth). Although the ransomware may have already affected other users, isolation can limit the scope of infection in the network.
 
 
+> 3. **Identify the source** - Figuring out where the malware originated from can help locate the entry point of the ransomware. This information can provide the organization with valuable information to further improve security practices and training.
+
+> The last one is **Report attack to authorities** - Ransomware is a crime that should be reported to authorities for further investigation. However, another benefit is that law enforcement agencies may have access to more advanced recovery tools and software not available to most organizations. In some cases, recovering stolen or compromised data and catching perpetrators is possible.
+
+
+So based on all the previous strategies against phishing and ransomware.
+There are three main suggestions for protecting us from daily cyber attacks.
+•Use strong, unique passwords and enable 2-factor authentication for all accounts.
+
+•Be cautious of sharing personal information online and review privacy settings regularly.
+
+•Keep software updated to protect against the latest  
+security vulnerabilities.
+
+
+
+Finally, to conclude,
+my partner had introduced jane's experience of being attaked by a phishing email. This cyber attack can lead to information and financial lose.
+And it is also close to us.
+
+The common cyber attacks are consisted of 
+•Phshing that make use of emails & fake website creation
+
+•Ransomware that can lock software and files & demand payments
+
+
+
+
+the protection Strategies that we should use are that:
+
+•Always be cautious
+
+•Strong passwords & 2-factor authentication
+
+•Use tools like firewalls and web extensions
+
+•Update system and software
