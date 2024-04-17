@@ -9,25 +9,28 @@ the first one is Tricking users to pass on sensitive information via spoofed sit
 and the second one is •Getting the user to install malware through a click in a communication
 
 
-According to these characteristics of phishing attack, our protection strategy can be organized into two main categories.
+According to these characteristics, our protection strategy can be organized into two main categories.
 The first one is to •Prevent phishing emails from reaching users
 the second one is to •Safely handle emails that do reach users
 
+For the first strategy, there are many Anti-phishing softwares. Many internet browsers can be equipped with anti-phishing toolbars or extensions that alert users when they visit a known phishing website.
 
+-------------------
 
+For the second strategy, There are five tips for safely handling emails that do reach users
 
-
-> **Anti-Phishing Toolbars and Browser Extensions**: Many internet browsers can be equipped with anti-phishing toolbars or extensions that alert users when they visit a known phishing website.
-
-There are five tips for safely handling emails that do reach users
-
->Professional copywriters will create emails with well-tested content, subject line,
+The first thing should be suspected is grammar and punctutation.
+Professional copywriters will create emails with well-tested content, subject line,
 > It is very likely that any email that contains poor grammar, punctuation or shows an illogical flow of content is likely written by inexperienced scammers and the email is created by the phishing attackers
 
+
+The first thing should be suspected emails or webs that ask for personal infromation.
 > _Established brands never ask you sensitive information via email._ Any messages asking to enter or [verify personal details](https://digitalguardian.com/blog/phishing-attack-prevention-how-identify-avoid-phishing-scams) or bank/credit card information should be treated as big red flags.
 
+The third one to be suspected is •Alarming content full of warnings and potential consequences
 > Hackers can send messages that cause alarm by telling you things like one of your accounts has been hacked, your account is expiring, and that you may lose some critical benefits immediately, or some other extreme condition that puts you in panic. Such content is typically formatted to create alarm and a sense of urgency with the intent of driving the user to take immediate action.
 
+Urgent deadlines are also dangerous
 > In this pattern, hackers send out an email about some pending deadline. For example, a hacker could send out a renewal email about an [expiring insurance policy](http://www.rmmagazine.com/2018/11/08/turning-to-crime-insurance-policies-for-phishing-losses/), or a limited validity discount on some deal that might be of interest to the target. Typically, such emails lead the users to **data harvesting sites** that end up stealing valuable personal or financial information.
 
 > This pattern includes emails claiming that you have won a lottery when you never purchase one, offer of a large cash discount on something that you never purchased, large prize money in a contest that you never enrolled for and so on. The actual intention is usually to direct you to a site where the scammers can get your personal or financial information.
