@@ -1,21 +1,3 @@
-•Tips to identify and avoid phishing attempts.
-
-•
-
-•Strategies for verifying sender authenticity.
-
-•
-
-•Technologies to aid in phishing defense.
-
-•
-
-•
-
-
-https://www.phishprotection.com/content/phishing-prevention
-
-https://www.upguard.com/blog/best-practices-to-prevent-ransomware-attacks
 
 
 thanks for tang han' s introduction to cyber attacks like phishing and ransomware
