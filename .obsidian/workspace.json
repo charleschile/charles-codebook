@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语pre.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a162d2bd5cef363d",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语pre.md",
+                "file": "TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语pre.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语pre.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -163,8 +162,8 @@
   },
   "active": "9c7f2992fd9c98f1",
   "lastOpenFiles": [
-    "杂事.md",
     "英语pre.md",
+    "杂事.md",
     "进度对照表.md",
     "TODO.md",
     "Problem/Java算法cheatsheet.md",
