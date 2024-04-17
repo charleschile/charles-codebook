@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "49d87a7d91401400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "macbook选购选购.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9c7f2992fd9c98f1",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "国内面试/快速面试准备.md",
+                "file": "macbook选购选购.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "国内面试/快速面试准备.md",
+                "file": "macbook选购选购.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "国内面试/快速面试准备.md"
+                "file": "macbook选购选购.md"
               }
             }
           }
@@ -159,10 +172,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "92177deaafa7d599",
+  "active": "49d87a7d91401400",
   "lastOpenFiles": [
-    "国内面试/面试经验.md",
+    "pics/截屏2024-04-17 22.26.29.png",
     "国内面试/快速面试准备.md",
+    "macbook选购选购.md",
+    "国内面试/面试经验.md",
     "英语pre.md",
     "杂事.md",
     "TODO.md",
@@ -195,8 +210,6 @@
     "国内面试 2/国内面试/自己面试面经.md",
     "国内面试 2/国内面试/自己面试问题.md",
     "国内面试 2/国内面试/自己携程面试.md",
-    "国内面试 2/国内面试/携程cqj面经.md",
-    "国内面试 2/国内面试/常考内容.md",
     "国内面试 2/pics/截屏2024-04-13 16.31.18.png",
     "国内面试 2/需要整合的内容",
     "国内面试 2/国内面试",
