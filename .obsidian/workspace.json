@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂事.md",
+                "file": "国内面试/快速面试准备.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "国内面试/快速面试准备.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "国内面试/快速面试准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "国内面试/快速面试准备.md"
               }
             }
           }
@@ -160,12 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9c7f2992fd9c98f1",
+  "active": "92177deaafa7d599",
   "lastOpenFiles": [
+    "国内面试/面试经验.md",
+    "国内面试/快速面试准备.md",
     "英语pre.md",
     "杂事.md",
-    "进度对照表.md",
     "TODO.md",
+    "进度对照表.md",
     "Problem/Java算法cheatsheet.md",
     "Problem/LeetCode从头刷.md",
     "Java/Java基础.md",
@@ -174,7 +175,6 @@
     "国内面试/面试算法.md",
     "Java/Java并发编程.md",
     "SSM/SSM.md",
-    "国内面试/面试经验.md",
     "需要整合的内容/未命名.md",
     "国内面试/常考内容.md",
     "国内面试/自己面试面经.md",
@@ -198,7 +198,6 @@
     "国内面试 2/国内面试/携程cqj面经.md",
     "国内面试 2/国内面试/常考内容.md",
     "国内面试 2/pics/截屏2024-04-13 16.31.18.png",
-    "国内面试 2/SSM/SSM.md",
     "国内面试 2/需要整合的内容",
     "国内面试 2/国内面试",
     "国内面试 2/pics",
