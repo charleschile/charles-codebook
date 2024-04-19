@@ -22,8 +22,7 @@ As my partner has mentioned, It is very likely that any email that contains poor
 
 The second one to be suspected is alarming content full of warnings and potential consequences
 
-Hackers may send messages that cause alarm by telling you things like one of your accounts has been hacked or your account is expiring and you will lose a lot of money in very short period. Such content is aimed to create alarm and a sense of urgency to the users to take immediate action.
-
+Hackers may send messages that cause alarm by telling you things like one of your accounts has been hacked. Such content is aimed to create alarm and a sense of urgency to the users to take immediate action.
 
 
 
