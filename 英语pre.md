@@ -12,54 +12,54 @@ According to these characteristics of phishing attack, our protection strategy c
 The first one is to •Prevent phishing emails from reaching users
 
 Many anti-phishing softwares can be used for this purpose.
-For example, many internet browsers can be equipped with anti-phishing toolbars or extensions that alert users when they visit a phishing website that has been pointed out.
+For example, currently, many  browsers can be equipped with anti-phishing toolbars or extensions that can alert users when they visit a phishing website that has been pointed out.
 
 
 The second category of protection strategies is to safely handle emails that do reach users.
 
-There are five tips.
-As my partner has mentioned, professional copywriters will create emails with well-tested content. It is very likely that any email that contains poor grammar, punctuation or shows an illogical flow of content is likely written by inexperienced scammers and the email is created by the phishing attackers
+There are five small tips.
+As my partner has mentioned, It is very likely that any email that contains poor grammar, punctuation or shows an illogical flow of content is likely written by inexperienced scammers and the email is created by the phishing attackers.
 
-The second 
+The second one to be suspected is alarming content full of warnings and potential consequences
 
-> _Established brands never ask you sensitive information via email._ Any messages asking to enter or [verify personal details](https://digitalguardian.com/blog/phishing-attack-prevention-how-identify-avoid-phishing-scams) or bank/credit card information should be treated as big red flags.
+Hackers may send messages that cause alarm by telling you things like one of your accounts has been hacked or your account is expiring and you will lose a lot of money in very short period. Such content is aimed to create alarm and a sense of urgency to the users to take immediate action.
 
 
-The third one to be suspected is •Alarming content full of warnings and potential consequences
-> Hackers can send messages that cause alarm by telling you things like one of your accounts has been hacked, your account is expiring, and that you may lose some critical benefits immediately, or some other extreme condition that puts you in panic. Such content is typically formatted to create alarm and a sense of urgency with the intent of driving the user to take immediate action.
+
 
 Urgent deadlines are also dangerous
-> In this pattern, hackers send out an email about some pending deadline. For example, a hacker could send out a renewal email about an [expiring insurance policy](http://www.rmmagazine.com/2018/11/08/turning-to-crime-insurance-policies-for-phishing-losses/), or a limited validity discount on some deal that might be of interest to the target. Typically, such emails lead the users to **data harvesting sites** that end up stealing valuable personal or financial information.
+For example, a hacker may send out an email that gives a discount on some deal that might be of interest to the target. Typically, such emails will lead the users to **data harvesting sites** that end up stealing valuable personal or financial information.
 
-> This pattern includes emails claiming that you have won a lottery when you never purchase one, offer of a large cash discount on something that you never purchased, large prize money in a contest that you never enrolled for and so on. The actual intention is usually to direct you to a site where the scammers can get your personal or financial information.
+
+The forth tip is that any messages asking to enter or [verify personal details](https://digitalguardian.com/blog/phishing-attack-prevention-how-identify-avoid-phishing-scams) or credit card information should be treated as phishing attacks.
+
+
+The last tip is that almost all large financial rewards are phishing attacks.
+For example, hackers will send an email claim that you have won a large prize money in a contest that you never enrolled for and so on. The actual intention is usually to direct you to a site where the scammers can get your personal or financial information.
 
 
 despite these mentioned before, there are also other techniques and tools can protect us against phishing 
 
-
-> 1.Email Filters: Implementing advanced email filtering solutions can help detect phishing emails before they reach the inbox. These filters analyze incoming messages for phishing indicators like suspicious sender addresses or malicious links.
-
+The first one is email filters. like The email filters in outlook can analyze  messages for phishing indicators like suspicious sender addresses or malicious links.
 
 
-> 2.Multi-Factor Authentication (MFA): MFA requires users to provide additional verification (e.g., a code sent to a phone) beyond just a username and password. Even if attackers obtain credentials through phishing, MFA can prevent them from gaining access to out accounts. 
+The second tool is Multi-Factor Authentication (MFA): MFA requires users to provide additional verification (e.g., a code sent to a phone) beyond just a username and password.  So Even if attackers obtain passwords through phishing, MFA can prevent them from gaining access to our accounts. 
 
 
-
->3.Regular Software Updates: Keeping software up to date, including email clients, web browsers, and operating systems, helps protect against phishing attacks that make use of software vulnerabilities.
+Finally we should Keeping our software up to date, including email clients, web browsers, and operating systems, this helps to protect against phishing attacks that make use of software vulnerabilities.
 
 
 
-Here are the methods to protect us aginst ransomeware
+now, Here comes the methods to protect us aginst ransomeware
+
+The first suggestion is to always back up you data to devieces like external hard drive or cloud server. So in the case of ransomware, the user can just ignore the file lock and just wipe the server or computer clean and reinstall the backup files.
 
 
->1.  [Backing up your data](http://www.upguard.com/blog/how-to-back-up-your-data) to an external hard drive or cloud server is one of the easiest risk mitigation practices. In the case of a ransomware attack, the user can just wipe the computer clean and reinstall the backup files.
 
-> 2. Always keep your operating system, web browser, antivirus, and any other software you use updated to the latest version available. Malware, viruses, and ransomware are constantly evolving with new variants that can bypass your old security features, so you'll want to make sure everything is patched and up-to-date.
-
-> Also, Comprehensive antivirus and anti-malware software are the most common ways to defend against ransomware. They can scan, detect, and respond to [cyber threats](https://www.upguard.com/blog/cyber-threat). 
+The third method is to install antivirus software and firewalls these are the most common ways to defend against ransomware because They can scan, detect, and respond to [cyber threats](https://www.upguard.com/blog/cyber-threat). 
 
 The last one is application white listing 
-> Whitelisting determines which applications can be downloaded and executed on a network. Any unauthorized program or website that is not whitelisted will be restricted or blocked in the case an employee or user accidentally downloads an infected program or visits a corrupted site. Using whitelisting software like Windows AppLocker, you can also "blacklist" or block specific programs and websites.
+Whitelisting determines which applications can be downloaded and executed on a network or a device. So the unorthorized 
 
 
 
