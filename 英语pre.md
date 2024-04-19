@@ -34,7 +34,7 @@ The forth tip is that any messages asking to enter or [verify personal details]
 
 
 The last tip is that almost all large financial rewards are phishing attacks.
-For example, hackers will send an email claim that you have won a large prize money in a contest that you never enrolled for and so on. The actual intention is usually to direct you to a site where the scammers can get your personal or financial information.
+For example, hackers will send an email claim that you have won a large prize money in a contest that you never enrolled for . The actual intention is usually to direct you to a site where the scammers can get your personal or financial information.
 
 
 despite these mentioned before, there are also other techniques and tools can protect us against phishing 
