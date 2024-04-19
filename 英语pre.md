@@ -59,7 +59,7 @@ The first suggestion is to always back up you data to devieces like external har
 The third method is to install antivirus software and firewalls these are the most common ways to defend against ransomware because They can scan, detect, and respond to [cyber threats](https://www.upguard.com/blog/cyber-threat). 
 
 The last one is application white listing 
-Whitelisting determines which applications can be downloaded and executed on a network or a device. So the unorthorized 
+Whitelisting determines which applications can be downloaded and executed on a network or a device. So the unauthorized softwares from attackers will not be allowed to be downloaed and executed on your computer.
 
 
 
@@ -70,24 +70,15 @@ Whitelisting determines which applications can be downloaded and executed on a n
 Of course, despite all the security measures in place, it's still possible to become a victim of ransomware.
 Here are the suggestions for you after a ransomware
 
-> 1. **Do NOT pay the ransom** - Security experts and law enforcement agencies strongly advise against paying the ransom because this only encourages attackers to continue their criminal activity. In many cases, there's no guarantee the attacks will provide a working decryption key. Even with a key, the data may become corrupted, resulting in permanent loss.
+The first one is **Do NOT pay the ransom** because this only encourages attackers to continue their criminal activity. 
 
-> 2. **Isolate infected systems** - To prevent a further breach, users should immediately disconnect their device from the network and all wireless connectivity (Wi-Fi, Bluetooth). Although the ransomware may have already affected other users, isolation can limit the scope of infection in the network.
-
-
-> 3. **Identify the source** - Figuring out where the malware originated from can help locate the entry point of the ransomware. This information can provide the organization with valuable information to further improve security practices and training.
-
-> The last one is **Report attack to authorities** - Ransomware is a crime that should be reported to authorities for further investigation. However, another benefit is that law enforcement agencies may have access to more advanced recovery tools and software not available to most organizations. In some cases, recovering stolen or compromised data and catching perpetrators is possible.
+The second one is **Isolating infected systems** - To prevent a further breach, users should immediately disconnect their device from the Wi-Fi and  Bluetooth to avoid affecting other users, isolation can limit the scope of infection in the network.
 
 
-So based on all the previous strategies against phishing and ransomware.
-There are three main suggestions for protecting us from daily cyber attacks.
-•Use strong, unique passwords and enable 2-factor authentication for all accounts.
+The third one is **Identify the source** - Figuring out where the malware originated from can help locate the entry point of the ransomware. This is a valuable information to prevent being attacked again.
 
-•Be cautious of sharing personal information online and review privacy settings regularly.
+The last one is **Reporting attack to authorities** - Ransomware is a crime that should be reported to authorities for further investigation. 
 
-•Keep software updated to protect against the latest  
-security vulnerabilities.
 
 
 
