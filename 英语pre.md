@@ -1,5 +1,4 @@
 
-
 thanks for tang han' s introduction to cyber attacks like phishing and ransomware
 
 Now I will introduce some effective protection strategies against these cyber attacks
@@ -9,23 +8,22 @@ the first one is Tricking users to pass on sensitive information via spoofed sit
 and the second one is •Getting the user to install malware through a click in a communication
 
 
-According to these characteristics, our protection strategy can be organized into two main categories.
+According to these characteristics of phishing attack, our protection strategy can be organized into two main categories.
 The first one is to •Prevent phishing emails from reaching users
-the second one is to •Safely handle emails that do reach users
 
-For the first strategy, there are many Anti-phishing softwares. Many internet browsers can be equipped with anti-phishing toolbars or extensions that alert users when they visit a known phishing website.
-
--------------------
-
-For the second strategy, There are five tips for safely handling emails that do reach users
-
-The first thing should be suspected is grammar and punctutation.
-Professional copywriters will create emails with well-tested content, subject line,
-> It is very likely that any email that contains poor grammar, punctuation or shows an illogical flow of content is likely written by inexperienced scammers and the email is created by the phishing attackers
+Many anti-phishing softwares can be used for this purpose.
+For example, many internet browsers can be equipped with anti-phishing toolbars or extensions that alert users when they visit a phishing website that has been pointed out.
 
 
-The first thing should be suspected emails or webs that ask for personal infromation.
+The second category of protection strategies is to safely handle emails that do reach users.
+
+There are five tips.
+As my partner has mentioned, professional copywriters will create emails with well-tested content. It is very likely that any email that contains poor grammar, punctuation or shows an illogical flow of content is likely written by inexperienced scammers and the email is created by the phishing attackers
+
+The second 
+
 > _Established brands never ask you sensitive information via email._ Any messages asking to enter or [verify personal details](https://digitalguardian.com/blog/phishing-attack-prevention-how-identify-avoid-phishing-scams) or bank/credit card information should be treated as big red flags.
+
 
 The third one to be suspected is •Alarming content full of warnings and potential consequences
 > Hackers can send messages that cause alarm by telling you things like one of your accounts has been hacked, your account is expiring, and that you may lose some critical benefits immediately, or some other extreme condition that puts you in panic. Such content is typically formatted to create alarm and a sense of urgency with the intent of driving the user to take immediate action.
