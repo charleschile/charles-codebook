@@ -20,14 +20,10 @@ The second category of protection strategies is to safely handle emails that do 
 There are five small tips.
 As my partner has mentioned, It is very likely that any email that contains poor grammar, punctuation or with illogical flow of content is likely written by inexperienced scammers and the email is created by the phishing attackers.
 
-The second one to be suspected is alarming content full of warnings 
+The second and the third one to be suspected is alarming content full of warnings and urgent dealines.
 
 Hackers may send messages that cause alarm by telling you things like one of your accounts has been hacked. Such content is aimed to create alarm and a sense of urgency to drive users to take immediate action.
-
-
-
-Urgent deadlines are also dangerous
-For example, a hacker may send out an email that gives a discount on some deal that might be of interest to the target. Typically, such emails will lead the users to **data harvesting sites** that end up stealing valuable personal or financial information.
+Typically, such emails will lead the users to **data harvesting sites** that end up stealing valuable personal or financial information.
 
 
 The forth tip is that any messages asking to enter or [verify personal details](https://digitalguardian.com/blog/phishing-attack-prevention-how-identify-avoid-phishing-scams) or credit card information should be treated as phishing attacks.
