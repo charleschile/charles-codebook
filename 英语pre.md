@@ -60,7 +60,7 @@ The third method is to install antivirus software and firewalls. These are the m
 The forth suggestion is to not open emails from unknown senders.
 
 The last one is application white listing 
-Whitelisting determines which applications can be downloaded and executed on a network or a device. So the unauthorized softwares from attackers will not be allowed to be downloaed and executed on your computer.
+Whitelisting can determine which applications can be downloaded and executed on a network or a device. So the unauthorized softwares from attackers will not be allowed to be downloaed and executed on your computer.
 
 
 
