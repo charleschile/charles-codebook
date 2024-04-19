@@ -4,7 +4,7 @@ thanks for tang han' s introduction to cyber attacks like phishing and ransomwar
 Now I will introduce some effective protection strategies against these cyber attacks
 
 According to Tang Han' s introduction, we can know that almost all phishing attacks can be broadly divided into two categories
-the first one is Tricking users to pass on sensitive information via spoofed sites
+the first one is Tricking users to pass on sensitive information via fake sites
 and the second one is •Getting the user to install malware through a click in a communication
 
 
