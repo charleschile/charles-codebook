@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "国内面试/快速面试准备.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49d87a7d91401400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "英语pre.md",
                 "mode": "source",
                 "source": false
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a162d2bd5cef363d",
@@ -173,10 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "49d87a7d91401400",
+  "active": "92177deaafa7d599",
   "lastOpenFiles": [
-    "杂事.md",
+    "国内面试/快速面试准备.md",
     "英语pre.md",
+    "杂事.md",
     "macbook选购选购.md",
     "pics/截屏2024-04-17 23.02.12.png",
     "pics/截屏2024-04-17 22.41.17.png",
@@ -185,7 +172,6 @@
     "pics/截屏2024-04-17 22.34.19.png",
     "pics/截屏2024-04-17 22.31.14.png",
     "pics/截屏2024-04-17 22.26.29.png",
-    "国内面试/快速面试准备.md",
     "国内面试/面试经验.md",
     "TODO.md",
     "进度对照表.md",

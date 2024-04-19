@@ -12,17 +12,17 @@ According to these characteristics of phishing attack, our protection strategy c
 The first one is to •Prevent phishing emails from reaching users
 
 Many anti-phishing softwares can be used for this purpose.
-For example, currently, many  browsers can be equipped with anti-phishing toolbars or extensions that can alert users when they visit a phishing website that has been pointed out.
+For example, currently, many  browsers can be equipped with anti-phishing toolbars or extensions that can alert users when they visit a phishing website that has marked.
 
 
 The second category of protection strategies is to safely handle emails that do reach users.
 
 There are five small tips.
-As my partner has mentioned, It is very likely that any email that contains poor grammar, punctuation or shows an illogical flow of content is likely written by inexperienced scammers and the email is created by the phishing attackers.
+As my partner has mentioned, It is very likely that any email that contains poor grammar, punctuation or with illogical flow of content is likely written by inexperienced scammers and the email is created by the phishing attackers.
 
-The second one to be suspected is alarming content full of warnings and potential consequences
+The second one to be suspected is alarming content full of warnings 
 
-Hackers may send messages that cause alarm by telling you things like one of your accounts has been hacked. Such content is aimed to create alarm and a sense of urgency to the users to take immediate action.
+Hackers may send messages that cause alarm by telling you things like one of your accounts has been hacked. Such content is aimed to create alarm and a sense of urgency to drive users to take immediate action.
 
 
 
