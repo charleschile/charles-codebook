@@ -71,7 +71,7 @@ Here are the suggestions for you after a ransomware
 
 The first one is **Do NOT pay the ransom** because this only encourages attackers to continue their criminal activity. 
 
-The second one is **Isolating infected systems** - To prevent a further breach, users should immediately disconnect their device from the Wi-Fi and  Bluetooth to avoid affecting other users, isolation can limit the scope of infection in the network.
+The second one is **Isolating infected systems** - To prevent a further breach, users should immediately disconnect their device from the Wi-Fi and  Bluetooth to avoid affecting other users
 
 
 The third one is **Identify the source** - Figuring out where the malware originated from can help locate the entry point of the ransomware. This is a valuable information to prevent being attacked again.
