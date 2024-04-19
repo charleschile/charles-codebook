@@ -53,9 +53,11 @@ now, Here comes the methods to protect us aginst ransomeware
 
 The first suggestion is to always back up you data to devieces like external hard drive or cloud server. So in the case of ransomware, the user can just ignore the file lock and just wipe the server or computer clean and reinstall the backup files.
 
+Since ransomeware viruses are evolving, it is also important to keep all systems and software updated. 
 
+The third method is to install antivirus software and firewalls. These are the most common ways to defend against ransomware because They can scan, detect, and respond to [cyber threats](https://www.upguard.com/blog/cyber-threat).
 
-The third method is to install antivirus software and firewalls these are the most common ways to defend against ransomware because They can scan, detect, and respond to [cyber threats](https://www.upguard.com/blog/cyber-threat). 
+The forth suggestion is to not open emails from unknown senders.
 
 The last one is application white listing 
 Whitelisting determines which applications can be downloaded and executed on a network or a device. So the unauthorized softwares from attackers will not be allowed to be downloaed and executed on your computer.
