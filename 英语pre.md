@@ -45,7 +45,7 @@ The first one is email filters. like The email filters in outlook can analyze  m
 The second tool is Multi-Factor Authentication (MFA): MFA requires users to provide additional verification (e.g., a code sent to a phone) beyond just a username and password.  So Even if attackers obtain passwords through phishing, MFA can prevent them from gaining access to our accounts. 
 
 
-Finally we should Keeping our software up to date, including email clients, web browsers, and operating systems, this helps to protect against phishing attacks that make use of software vulnerabilities.
+Finally we should Keep our software up to date, including email clients, web browsers, and operating systems, this helps to protect against phishing attacks that make use of software vulnerabilities.
 
 
 
