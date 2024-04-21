@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Web/Java Web.md",
+                "file": "需要整合的内容/mac配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a162d2bd5cef363d",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Web/Java Web.md",
+                "file": "需要整合的内容/mac配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Web/Java Web.md",
+                "file": "需要整合的内容/mac配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Web/Java Web.md"
+                "file": "需要整合的内容/mac配置.md"
               }
             }
           }
@@ -187,12 +186,12 @@
   },
   "active": "f0d6ff177b72e7f9",
   "lastOpenFiles": [
+    "Java Web/Java Web.md",
     "pics/截屏2024-04-21 16.30.13.png",
     "pics/截屏2024-04-21 16.28.19.png",
     "pics/截屏2024-04-21 16.27.02.png",
     "pics/截屏2024-04-21 16.15.31.png",
     "TODO.md",
-    "Java Web/Java Web.md",
     "Java Web",
     "英语pre.md",
     "未命名.md",
@@ -205,7 +204,6 @@
     "pics/截屏2024-04-17 22.37.33.png",
     "pics/截屏2024-04-17 22.34.19.png",
     "pics/截屏2024-04-17 22.31.14.png",
-    "pics/截屏2024-04-17 22.26.29.png",
     "国内面试/面试经验.md",
     "进度对照表.md",
     "Problem/Java算法cheatsheet.md",
@@ -215,7 +213,7 @@
     "国内面试/面试算法.md",
     "Java/Java并发编程.md",
     "SSM/SSM.md",
-    "需要整合的内容/未命名.md",
+    "需要整合的内容/mac配置.md",
     "国内面试/常考内容.md",
     "国内面试/自己面试面经.md",
     "国内面试/携程cqj面经.md",
