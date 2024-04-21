@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "需要整合的内容/mac配置.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "需要整合的内容/mac配置.md",
+                "file": "TODO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "需要整合的内容/mac配置.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "需要整合的内容/mac配置.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,6 +185,7 @@
   },
   "active": "f0d6ff177b72e7f9",
   "lastOpenFiles": [
+    "需要整合的内容/mac配置.md",
     "国内面试/常考内容.md",
     "国内面试/携程cqj面经.md",
     "国内面试/面试经验.md",
@@ -193,7 +193,6 @@
     "国内面试/快速面试准备.md",
     "进度对照表.md",
     "TODO.md",
-    "需要整合的内容/mac配置.md",
     "Java Web/Java Web.md",
     "pics/截屏2024-04-21 16.30.13.png",
     "pics/截屏2024-04-21 16.28.19.png",
