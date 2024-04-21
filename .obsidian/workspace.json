@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f0d6ff177b72e7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Web/Java Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9c7f2992fd9c98f1",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a162d2bd5cef363d",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Java Web/Java Web.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Java Web/Java Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Java Web/Java Web.md"
               }
             }
           }
@@ -172,8 +185,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2f6fa5fbca91b6f0",
+  "active": "f0d6ff177b72e7f9",
   "lastOpenFiles": [
+    "TODO.md",
+    "Java Web/Java Web.md",
+    "Java Web",
     "英语pre.md",
     "未命名.md",
     "国内面试/快速面试准备.md",
@@ -187,7 +203,6 @@
     "pics/截屏2024-04-17 22.31.14.png",
     "pics/截屏2024-04-17 22.26.29.png",
     "国内面试/面试经验.md",
-    "TODO.md",
     "进度对照表.md",
     "Problem/Java算法cheatsheet.md",
     "Problem/LeetCode从头刷.md",
@@ -215,10 +230,8 @@
     "国内面试 2/需要整合的内容/未命名.md",
     "国内面试 2/国内面试/自己面试面经.md",
     "国内面试 2/国内面试/自己面试问题.md",
-    "国内面试 2/国内面试/自己携程面试.md",
     "国内面试 2/需要整合的内容",
     "国内面试 2/国内面试",
-    "国内面试 2/pics",
-    "国内面试 2/SSM"
+    "国内面试 2/pics"
   ]
 }
