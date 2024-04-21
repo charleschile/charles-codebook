@@ -95,9 +95,11 @@ https://search.bilibili.com/all?keyword=%E5%BE%AE%E6%9C%8D%E5%8A%A1&from_source=
 
 ### 4. 清华大学培训
 #### 清华大学算法协会
+从小白到全栈工程师： https://www.bilibili.com/video/BV1uY411y7We/?spm_id_from=333.999.0.0&vd_source=eef58fdde5150dcee73d678306f9cd48
+2023暑期培训：https://www.bilibili.com/video/BV11N4y187ZE/?spm_id_from=333.999.0.0&vd_source=eef58fdde5150dcee73d678306f9cd48
 #### 清华大学电子系软件部
 
-
+清华算协暑期培训：https://www.bilibili.com/video/BV15d4y1U7HH/?spm_id_from=333.999.0.0&vd_source=eef58fdde5150dcee73d678306f9cd48
 
 
 
