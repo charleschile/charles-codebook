@@ -3,6 +3,26 @@ thanks for tang han' s introduction to cyber attacks like phishing and ransomwar
 
 Now I will introduce some effective protection strategies against these cyber attacks
 
+
+```java
+package edu.duke.ece651.client;  
+  
+import java.awt.*;  
+import java.awt.event.ActionListener;  
+import java.util.HashMap;  
+  
+  
+interface View {  
+  
+  
+  public Panel makeInitPanel(ActionListener listener);  
+  
+  public Panel getPanel();  
+}
+```
+
+`public HashMap<String, String> getInputs();  `
+
 According to Tang Han' s introduction, we can know that almost all phishing attacks can be broadly divided into two categories
 the first one is Tricking users to pass on sensitive information through fake sites
 and the second one is •Getting the user to install malware through a click in a communication
