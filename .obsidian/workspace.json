@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fad6a8cd0077bc18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "经验分享/自学CS路线、课程推荐.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
+                "file": "经验分享/自学CS路线、课程推荐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
+                "file": "经验分享/自学CS路线、课程推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md"
+                "file": "经验分享/自学CS路线、课程推荐.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "484639b67ed1f067",
+  "active": "fad6a8cd0077bc18",
   "lastOpenFiles": [
-    "Java Web/Java Web.md",
     "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
+    "经验分享/自学CS路线、课程推荐.md",
+    "Java Web/Java Web.md",
     "pics/截屏2024-04-23 11.28.52.png",
     "pics/截屏2024-04-17 23.02.12.png",
     "pics/截屏2024-04-21 16.15.31.png",
