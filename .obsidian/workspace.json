@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a78ca8ec5f0c5692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "经验分享/Optiver学长转码经历分享.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经验分享/自学CS路线、课程推荐.md",
+                "file": "经验分享/Optiver学长转码经历分享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经验分享/自学CS路线、课程推荐.md",
+                "file": "经验分享/Optiver学长转码经历分享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经验分享/自学CS路线、课程推荐.md"
+                "file": "经验分享/Optiver学长转码经历分享.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fad6a8cd0077bc18",
+  "active": "a78ca8ec5f0c5692",
   "lastOpenFiles": [
-    "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
     "经验分享/自学CS路线、课程推荐.md",
+    "经验分享/Optiver学长转码经历分享.md",
+    "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
     "Java Web/Java Web.md",
     "pics/截屏2024-04-23 11.28.52.png",
     "pics/截屏2024-04-17 23.02.12.png",
