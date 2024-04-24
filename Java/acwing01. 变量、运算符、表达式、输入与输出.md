@@ -13,23 +13,26 @@ public class Main {
 ```
 
 ## 二、编写一个简单的Java程序–手速练习
+```java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
 }
+```
 ## 三、语法基础
 
 ### 1. 变量
 变量必须先定义，才可以使用。不能重名。
 变量定义的方式：
-
+```java
 public class Main {
     public static void main(String[] args) {
         int a = 5;
         int b, c = a, d = 10 / 2;
     }
 }
+```
 内置数据类型：
 
 类型	字节数	举例
@@ -190,6 +193,15 @@ public class Main {
 ### A + B
 
 ```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main (String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt(), b = sc.nextInt();
+        System.out.println(a + b);
+    }
+}
 ```
 
 
