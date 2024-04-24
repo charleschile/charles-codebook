@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Web/Java Web.md",
+                "file": "Java/Java基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -123,8 +121,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂事.md",
-                "collapseAll": false,
+                "file": "Java/Java基础.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂事.md",
+                "file": "Java/Java基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,11 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂事.md"
+                "file": "Java/Java基础.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,14 +183,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a78ca8ec5f0c5692",
+  "active": "35b0b71fd6b8fdd2",
   "lastOpenFiles": [
-    "经验分享/Optiver学长转码经历分享.md",
-    "经验分享/面试经验.md",
-    "经验分享/快速面试准备.md",
-    "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
-    "经验分享/自学CS路线、课程推荐.md",
+    "Java/Java基础~.md",
     "Java Web/Java Web.md",
+    "SSM/SSM.md",
+    "TODO.md",
+    "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
+    "经验分享/快速面试准备.md",
+    "经验分享/Optiver学长转码经历分享.md",
+    "经验分享/自学CS路线、课程推荐.md",
+    "经验分享/面试经验.md",
+    "Pasted image 20240412160319.png",
+    "Problem/LeetCode从头刷.md",
+    "Problem/Java算法cheatsheet.md",
+    "进度对照表.md",
+    "国内面试/自己面试问题.md",
+    "英语pre.md",
+    "未命名.md",
+    "macbook选购选购.md",
+    "Pasted image 20240411161209.png",
+    "杂事.md",
     "pics/截屏2024-04-23 11.28.52.png",
     "pics/截屏2024-04-17 23.02.12.png",
     "pics/截屏2024-04-21 16.15.31.png",
@@ -200,28 +212,15 @@
     "pics/截屏2024-04-21 16.30.13.png",
     "pics/截屏2024-04-17 22.41.17.png",
     "pics/截屏2024-04-17 22.40.25.png",
-    "pics/截屏2024-04-17 22.37.33.png",
-    "pics/截屏2024-04-17 22.31.14.png",
     "国内面试/自己面试面经.md",
-    "国内面试/自己面试问题.md",
     "国内面试/自己携程面试.md",
     "经验分享",
     "国内面试/面试算法.md",
     "国内面试/常考内容.md",
-    "英语pre.md",
     "Java/Java基础.md",
     "国内面试/携程cqj面经.md",
     "需要整合的内容/mac配置.md",
-    "SSM/SSM.md",
-    "Problem/LeetCode从头刷.md",
-    "Problem/Java算法cheatsheet.md",
     "Java/Java集合.md",
-    "Java/Java设计模式.md",
-    "Java/Java并发编程.md",
-    "进度对照表.md",
-    "杂事.md",
-    "未命名.md",
-    "macbook选购选购.md",
-    "TODO.md"
+    "Java/Java设计模式.md"
   ]
 }
