@@ -7,17 +7,7 @@
 
 ## acwing01. 变量、运算符、表达式、输入与输出
 
-> 编程是一种控制计算机的方式
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("hello world!");
-    }
-}
-```
-
-
+> 
 
 
 
