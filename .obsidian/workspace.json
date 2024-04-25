@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "651 pre.md",
-                "mode": "preview",
+                "file": "杂事.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "651 pre.md",
+                "file": "杂事.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "651 pre.md",
+                "file": "杂事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "651 pre.md"
+                "file": "杂事.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "b556ea93a3397523",
   "lastOpenFiles": [
+    "651 pre.md",
     "Java/acwing01. 变量、运算符、表达式、输入与输出.md",
     "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
     "Java/Java并发编程.md",
@@ -168,7 +169,6 @@
     "Problem/Java算法cheatsheet.md",
     "进度对照表.md",
     "国内面试/自己面试问题.md",
-    "651 pre.md",
     "未命名.md",
     "macbook选购选购.md",
     "Pasted image 20240411161209.png",
