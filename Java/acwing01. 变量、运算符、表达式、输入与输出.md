@@ -12,7 +12,7 @@ public class Main {
 }
 ```
 
-## 二、编写一个简单的Java程序–手速练习
+## 二、编写一 个简单的Java程序–手速练习
 ```java
 public class Main {
     public static void main(String[] args) {
