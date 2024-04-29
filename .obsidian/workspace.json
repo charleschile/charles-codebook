@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Web/Java Web.md",
+                "file": "Problem/LeetCode从头刷.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1ba732ae22130fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开源项目/开源项目收集.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Web/Java Web.md",
+                "file": "开源项目/开源项目收集.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Web/Java Web.md",
+                "file": "开源项目/开源项目收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Web/Java Web.md"
+                "file": "开源项目/开源项目收集.md"
               }
             }
           }
@@ -148,8 +160,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b556ea93a3397523",
+  "active": "d1ba732ae22130fd",
   "lastOpenFiles": [
+    "Problem/LeetCode从头刷.md",
+    "开源项目/开源项目收集.md",
+    "开源项目",
+    "Problem/Java算法cheatsheet.md",
+    "Java Web/Java Web.md",
     "杂事.md",
     "651 pre.md",
     "Java/acwing01. 变量、运算符、表达式、输入与输出.md",
@@ -159,7 +176,6 @@
     "Java/Java集合.md",
     "Java/Java设计模式.md",
     "Java/Java基础~.md",
-    "Java Web/Java Web.md",
     "SSM/SSM.md",
     "TODO.md",
     "经验分享/快速面试准备.md",
@@ -167,8 +183,6 @@
     "经验分享/自学CS路线、课程推荐.md",
     "经验分享/面试经验.md",
     "Pasted image 20240412160319.png",
-    "Problem/LeetCode从头刷.md",
-    "Problem/Java算法cheatsheet.md",
     "进度对照表.md",
     "国内面试/自己面试问题.md",
     "未命名.md",
@@ -185,7 +199,6 @@
     "国内面试/自己面试面经.md",
     "国内面试/自己携程面试.md",
     "经验分享",
-    "国内面试/面试算法.md",
-    "国内面试/常考内容.md"
+    "国内面试/面试算法.md"
   ]
 }
