@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afd0eeeff52aeda3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目代码记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂事.md",
+                "file": "项目代码记录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂事.md",
+                "file": "项目代码记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂事.md"
+                "file": "项目代码记录.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1ba732ae22130fd",
+  "active": "afd0eeeff52aeda3",
   "lastOpenFiles": [
-    "TODO.md",
     "杂事.md",
+    "项目代码记录.md",
+    "TODO.md",
     "Problem/进度对照.md",
     "Problem/LeetCode从头刷.md",
     "Problem/Java算法cheatsheet.md",
@@ -198,7 +211,6 @@
     "pics/截屏2024-04-17 22.41.17.png",
     "pics/截屏2024-04-17 22.40.25.png",
     "国内面试/自己面试面经.md",
-    "国内面试/自己携程面试.md",
     "经验分享"
   ]
 }
