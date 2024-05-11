@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目代码记录.md",
+                "file": "杂事.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目代码记录.md",
+                "file": "杂事.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目代码记录.md",
+                "file": "杂事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目代码记录.md"
+                "file": "杂事.md"
               }
             }
           }
@@ -174,8 +174,8 @@
   },
   "active": "afd0eeeff52aeda3",
   "lastOpenFiles": [
-    "杂事.md",
     "项目代码记录.md",
+    "杂事.md",
     "TODO.md",
     "Problem/进度对照.md",
     "Problem/LeetCode从头刷.md",
