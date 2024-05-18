@@ -20,24 +20,22 @@
             }
           },
           {
-            "id": "d1ba732ae22130fd",
+            "id": "afd0eeeff52aeda3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "杂事.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240411161209.png"
               }
             }
           },
           {
-            "id": "afd0eeeff52aeda3",
+            "id": "f7a10c86b13b42c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂事.md",
+                "file": "美团实习/未命名 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂事.md",
+                "file": "美团实习/未命名 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂事.md",
+                "file": "美团实习/未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂事.md"
+                "file": "美团实习/未命名 1.md"
               }
             }
           }
@@ -172,10 +170,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "afd0eeeff52aeda3",
+  "active": "f7a10c86b13b42c1",
   "lastOpenFiles": [
-    "项目代码记录.md",
+    "Pasted image 20240411161209.png",
+    "美团实习/未命名 1.md",
+    "美团实习",
     "杂事.md",
+    "651 pre.md",
+    "经验分享/面试经验.md",
+    "项目代码记录.md",
     "TODO.md",
     "Problem/进度对照.md",
     "Problem/LeetCode从头刷.md",
@@ -184,7 +187,6 @@
     "开源项目/开源项目收集.md",
     "开源项目",
     "Java Web/Java Web.md",
-    "651 pre.md",
     "Java/acwing01. 变量、运算符、表达式、输入与输出.md",
     "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
     "Java/Java并发编程.md",
@@ -196,12 +198,9 @@
     "经验分享/快速面试准备.md",
     "经验分享/Optiver学长转码经历分享.md",
     "经验分享/自学CS路线、课程推荐.md",
-    "经验分享/面试经验.md",
     "Pasted image 20240412160319.png",
     "国内面试/自己面试问题.md",
     "未命名.md",
-    "macbook选购选购.md",
-    "Pasted image 20240411161209.png",
     "pics/截屏2024-04-23 11.28.52.png",
     "pics/截屏2024-04-17 23.02.12.png",
     "pics/截屏2024-04-21 16.15.31.png",
@@ -210,7 +209,6 @@
     "pics/截屏2024-04-21 16.30.13.png",
     "pics/截屏2024-04-17 22.41.17.png",
     "pics/截屏2024-04-17 22.40.25.png",
-    "国内面试/自己面试面经.md",
     "经验分享"
   ]
 }
