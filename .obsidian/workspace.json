@@ -47,14 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "国内面试/rpc项目问题.md",
+                "file": "开源项目/开源项目收集.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3426195dd326798b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSM/SSM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "国内面试/rpc项目问题.md",
+                "file": "SSM/SSM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "国内面试/rpc项目问题.md",
+                "file": "SSM/SSM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "国内面试/rpc项目问题.md"
+                "file": "SSM/SSM.md"
               }
             }
           }
@@ -169,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +193,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1c7eeb5c00a4ea38",
+  "active": "3426195dd326798b",
   "lastOpenFiles": [
-    "经验分享/Optiver学长转码经历分享.md",
+    "pics/截屏2024-05-19 12.48.40.png",
+    "SSM/01-Maven.md",
+    "SSM/SSM.md",
+    "TODO.md",
+    "rpc项目/简易版rpc项目.md",
+    "开源项目/开源项目收集.md",
+    "rpc项目",
     "国内面试/rpc项目问题.md",
+    "经验分享/Optiver学长转码经历分享.md",
     "经验分享/自学CS路线、课程推荐.md",
     "经验分享/面试经验.md",
     "经验分享/快速面试准备.md",
@@ -196,7 +214,6 @@
     "国内面试/携程cqj面经.md",
     "国内面试/面试算法.md",
     "国内面试/常考内容.md",
-    "TODO.md",
     "美团实习/新人练习题串讲.md",
     "Pasted image 20240411161209.png",
     "美团实习",
@@ -207,12 +224,7 @@
     "Problem/LeetCode从头刷.md",
     "Problem/Java算法cheatsheet.md",
     "Problem/Java刷代码随想录.md",
-    "开源项目/开源项目收集.md",
     "开源项目",
-    "Java Web/Java Web.md",
-    "Java/acwing01. 变量、运算符、表达式、输入与输出.md",
-    "Java/Java并发编程.md",
-    "Java/Java基础.md",
     "Pasted image 20240412160319.png",
     "pics/截屏2024-04-23 11.28.52.png",
     "pics/截屏2024-04-17 23.02.12.png",
