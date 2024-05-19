@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d8a68bcd3fd444c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSM/SSM.md",
+                "file": "未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSM/SSM.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSM/SSM.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -193,11 +205,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3426195dd326798b",
+  "active": "1d8a68bcd3fd444c",
   "lastOpenFiles": [
+    "SSM/SSM.md",
+    "未命名.md",
     "pics/截屏2024-05-19 12.48.40.png",
     "SSM/01-Maven.md",
-    "SSM/SSM.md",
     "TODO.md",
     "rpc项目/简易版rpc项目.md",
     "开源项目/开源项目收集.md",
@@ -233,7 +246,6 @@
     "pics/截屏2024-04-21 16.28.19.png",
     "pics/截屏2024-04-21 16.30.13.png",
     "pics/截屏2024-04-17 22.41.17.png",
-    "pics/截屏2024-04-17 22.40.25.png",
     "经验分享"
   ]
 }
