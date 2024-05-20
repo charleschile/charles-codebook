@@ -71,14 +71,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "美团实习/新人练习题串讲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6be04a9167a71c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿纸.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "草稿纸.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "草稿纸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "草稿纸.md"
               }
             }
           }
@@ -193,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,10 +217,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d8a68bcd3fd444c",
+  "active": "b6be04a9167a71c0",
   "lastOpenFiles": [
-    "SSM/SSM.md",
+    "美团实习/新人练习题串讲.md",
+    "草稿纸.md",
+    "国内面试/携程cqj面经.md",
     "未命名.md",
+    "SSM/SSM.md",
     "pics/截屏2024-05-19 12.48.40.png",
     "SSM/01-Maven.md",
     "TODO.md",
@@ -225,10 +239,8 @@
     "国内面试/自己携程面试.md",
     "国内面试/自己面试问题.md",
     "国内面试/自己面试面经.md",
-    "国内面试/携程cqj面经.md",
     "国内面试/面试算法.md",
     "国内面试/常考内容.md",
-    "美团实习/新人练习题串讲.md",
     "Pasted image 20240411161209.png",
     "美团实习",
     "杂事.md",
@@ -237,7 +249,6 @@
     "Problem/进度对照.md",
     "Problem/LeetCode从头刷.md",
     "Problem/Java算法cheatsheet.md",
-    "Problem/Java刷代码随想录.md",
     "开源项目",
     "Pasted image 20240412160319.png",
     "pics/截屏2024-04-23 11.28.52.png",
