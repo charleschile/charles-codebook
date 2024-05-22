@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arrayList",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,8 +231,10 @@
   },
   "active": "1d8a68bcd3fd444c",
   "lastOpenFiles": [
-    "美团实习/新人串讲题目.md",
+    "项目代码记录.md",
+    "国内面试/自己携程面试.md",
     "美团实习/新人练习题串讲.md",
+    "美团实习/新人串讲题目.md",
     "101.新人练习题串讲-乐驰.pdf",
     "SSM/SSM.md",
     "经验分享/Optiver学长转码经历分享.md",
@@ -250,7 +252,6 @@
     "经验分享/面试经验.md",
     "经验分享/快速面试准备.md",
     "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
-    "国内面试/自己携程面试.md",
     "国内面试/自己面试问题.md",
     "国内面试/自己面试面经.md",
     "国内面试/面试算法.md",
@@ -259,7 +260,6 @@
     "美团实习",
     "杂事.md",
     "651 pre.md",
-    "项目代码记录.md",
     "Problem/进度对照.md",
     "开源项目",
     "Pasted image 20240412160319.png",
