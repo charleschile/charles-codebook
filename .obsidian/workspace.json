@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "美团实习/医药智搜业务.md",
+                "file": "创业/键盘.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "美团实习/医药智搜业务.md",
+                "file": "创业/键盘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "美团实习/医药智搜业务.md",
+                "file": "创业/键盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "美团实习/医药智搜业务.md"
+                "file": "创业/键盘.md"
               }
             }
           }
@@ -205,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +220,8 @@
   },
   "active": "d72e45c043b4e7ad",
   "lastOpenFiles": [
+    "未命名.md",
+    "美团实习/医药智搜业务.md",
     "创业/键盘.md",
     "pics/截屏2024-05-24 21.29.15.png",
     "pics/截屏2024-05-24 21.28.52.png",
@@ -228,7 +231,6 @@
     "创业/000_坚果云闪电下载介绍.url.nssyncsc",
     "创业",
     "美团实习/新人练习题串讲.md",
-    "美团实习/医药智搜业务.md",
     "美团实习/新人串讲题目.md",
     "国内面试/实习项目简历描述.md",
     "国内面试/常考内容.md",
@@ -237,7 +239,6 @@
     "101.新人练习题串讲-乐驰.nssyncsc",
     "草稿纸.md",
     "国内面试/携程cqj面经.md",
-    "未命名.md",
     "SSM/SSM.md",
     "pics/截屏2024-05-19 12.48.40.png",
     "SSM/01-Maven.md",
