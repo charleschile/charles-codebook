@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem/LeetCode从头刷.md",
+                "file": "美团实习/技巧.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "afd0eeeff52aeda3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240411161209.png"
               }
             }
           },
@@ -76,21 +66,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d72e45c043b4e7ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "创业/键盘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -157,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "创业/键盘.md",
+                "file": "美团实习/技巧.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "创业/键盘.md",
+                "file": "美团实习/技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创业/键盘.md"
+                "file": "美团实习/技巧.md"
               }
             }
           }
@@ -218,11 +194,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d72e45c043b4e7ad",
+  "active": "b556ea93a3397523",
   "lastOpenFiles": [
+    "美团实习/新人串讲题目.md",
+    "美团实习/技巧.md",
+    "Problem/LeetCode从头刷.md",
+    "Pasted image 20240411161209.png",
+    "经验分享/Optiver学长转码经历分享.md",
+    "开源项目/开源项目收集.md",
+    "SSM/SSM.md",
+    "创业/键盘.md",
     "未命名.md",
     "美团实习/医药智搜业务.md",
-    "创业/键盘.md",
     "pics/截屏2024-05-24 21.29.15.png",
     "pics/截屏2024-05-24 21.28.52.png",
     "pics/截屏2024-05-24 21.29.15.nssyncsc",
@@ -231,22 +214,18 @@
     "创业/000_坚果云闪电下载介绍.url.nssyncsc",
     "创业",
     "美团实习/新人练习题串讲.md",
-    "美团实习/新人串讲题目.md",
     "国内面试/实习项目简历描述.md",
     "国内面试/常考内容.md",
-    "开源项目/开源项目收集.md",
     "101.新人练习题串讲-乐驰.pdf",
     "101.新人练习题串讲-乐驰.nssyncsc",
     "草稿纸.md",
     "国内面试/携程cqj面经.md",
-    "SSM/SSM.md",
     "pics/截屏2024-05-19 12.48.40.png",
     "SSM/01-Maven.md",
     "TODO.md",
     "rpc项目/简易版rpc项目.md",
     "rpc项目",
     "国内面试/rpc项目问题.md",
-    "经验分享/Optiver学长转码经历分享.md",
     "经验分享/自学CS路线、课程推荐.md",
     "经验分享/面试经验.md",
     "经验分享/快速面试准备.md",
@@ -255,10 +234,7 @@
     "国内面试/自己面试问题.md",
     "国内面试/自己面试面经.md",
     "国内面试/面试算法.md",
-    "Pasted image 20240411161209.png",
     "美团实习",
-    "杂事.md",
-    "651 pre.md",
     "开源项目",
     "Pasted image 20240412160319.png",
     "pics/截屏2024-04-23 11.28.52.png",
