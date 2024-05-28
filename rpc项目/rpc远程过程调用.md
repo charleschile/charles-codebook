@@ -23,4 +23,4 @@ groupid和artifactId被统称为“坐标”是为了保证项目唯一性而提
 注意在pom.xml中引入需要的module
 
 ### 1. provider
-mac上中idea想要新建generate getter
+mac上中idea想要新建getter setter可以用cmd+N来调用generate
