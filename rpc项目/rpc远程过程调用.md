@@ -15,3 +15,6 @@ groupid和artifactId被统称为“坐标”是为了保证项目唯一性而提
 
 
 勾选Spring Web就是"build web, including RESTful, applications using SpringMVC. Uses Apache Tomcat as the default embedded container"
+
+
+`<packaging>pom</packaging>`代表打包的方式改变了
