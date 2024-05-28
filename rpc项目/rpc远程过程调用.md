@@ -18,3 +18,4 @@ groupid和artifactId被统称为“坐标”是为了保证项目唯一性而提
 
 
 `<packaging>pom</packaging>`代表打包的方式改变了
+注意在pom.xml中引入需要的module
