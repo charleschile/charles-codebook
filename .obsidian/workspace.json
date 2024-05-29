@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经验分享/Optiver学长转码经历分享.md",
+                "file": "开源项目/rocketmq.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,12 +113,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经验分享/Optiver学长转码经历分享.md",
+                "file": "开源项目/rocketmq.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经验分享/Optiver学长转码经历分享.md",
+                "file": "开源项目/rocketmq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经验分享/Optiver学长转码经历分享.md"
+                "file": "开源项目/rocketmq.md"
               }
             }
           }
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +198,12 @@
   },
   "active": "b556ea93a3397523",
   "lastOpenFiles": [
+    "pics/截屏2024-05-29 09.45.07.png",
+    "pics/截屏2024-05-29 09.44.30.png",
+    "pics/截屏2024-05-29 09.43.51.png",
+    "开源项目/开源项目收集.md",
+    "开源项目/rocketmq.md",
+    "经验分享/Optiver学长转码经历分享.md",
     "rpc项目/b站入门架构师.md",
     "101.新人练习题串讲-乐驰.pdf",
     "651 pre.md",
@@ -204,13 +211,11 @@
     "项目代码记录.md",
     "Pasted image 20240411161209.png",
     "TODO.md",
-    "开源项目/开源项目收集.md",
     "美团实习/医药智搜业务.md",
     "rpc项目/rpc远程过程调用.md",
     "美团实习/技巧.md",
     "美团实习/新人串讲题目.md",
     "Problem/LeetCode从头刷.md",
-    "经验分享/Optiver学长转码经历分享.md",
     "SSM/SSM.md",
     "创业/键盘.md",
     "未命名.md",
@@ -233,14 +238,11 @@
     "经验分享/自学CS路线、课程推荐.md",
     "经验分享/面试经验.md",
     "经验分享/快速面试准备.md",
-    "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
     "美团实习",
     "开源项目",
     "Pasted image 20240412160319.png",
     "pics/截屏2024-04-23 11.28.52.png",
     "pics/截屏2024-04-17 23.02.12.png",
-    "pics/截屏2024-04-21 16.15.31.png",
-    "pics/截屏2024-04-21 16.27.02.png",
-    "pics/截屏2024-04-21 16.28.19.png"
+    "pics/截屏2024-04-21 16.15.31.png"
   ]
 }
