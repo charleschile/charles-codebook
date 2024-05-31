@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "清华",
+                "query": "进阶",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +183,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b556ea93a3397523",
+  "active": "eff3d2b24727ec1c",
   "lastOpenFiles": [
     "TODO.md",
     "美团实习/医药串讲.pdf",
