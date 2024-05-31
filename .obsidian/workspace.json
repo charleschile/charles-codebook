@@ -11,9 +11,12 @@
             "id": "b556ea93a3397523",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "mit6.824/mapreduce.pdf"
+                "file": "mit6.824/01-introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mit6.824/mapreduce.pdf",
+                "file": "mit6.824/01-introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mit6.824/mapreduce.pdf",
+                "file": "mit6.824/01-introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mit6.824/mapreduce.pdf"
+                "file": "mit6.824/01-introduction.md"
               }
             }
           }
@@ -182,8 +185,8 @@
   },
   "active": "b556ea93a3397523",
   "lastOpenFiles": [
-    "mit6.824/01-introduction.md",
     "mit6.824/mapreduce.pdf",
+    "mit6.824/01-introduction.md",
     "mapreduce.pdf",
     "经验分享/Optiver学长转码经历分享.md",
     "mit6.824",
