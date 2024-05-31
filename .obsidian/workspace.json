@@ -15,7 +15,6 @@
               "state": {
                 "file": "mit6.824/01-introduction.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -187,6 +186,7 @@
   "lastOpenFiles": [
     "mit6.824/mapreduce.pdf",
     "mit6.824/01-introduction.md",
+    "mit6.824/mapreduce.pdf.sb-7bfb4c89-2MjtfC",
     "mapreduce.pdf",
     "经验分享/Optiver学长转码经历分享.md",
     "mit6.824",
@@ -216,7 +216,6 @@
     "pics/截屏2024-05-29 09.49.59.nssyncsc",
     "pics/截屏2024-05-29 09.45.07.nssyncsc",
     "pics/截屏2024-05-29 09.44.30.nssyncsc",
-    "pics/截屏2024-05-29 09.43.51.nssyncsc",
     "rpc项目/b站入门架构师.md",
     "Pasted image 20240411161209.png",
     "SSM/SSM.md",
