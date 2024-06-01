@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "进度对照.md",
+                "file": "Problem/LeetCode从头刷.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "进度对照.md",
+                "file": "Problem/LeetCode从头刷.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "进度对照.md",
+                "file": "Problem/LeetCode从头刷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "进度对照.md"
+                "file": "Problem/LeetCode从头刷.md"
               }
             }
           }
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +196,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "35b0b71fd6b8fdd2",
+  "active": "5fef1b8982082f06",
   "lastOpenFiles": [
+    "Problem/Java算法cheatsheet.md",
+    "Problem/Java刷代码随想录.md",
+    "进度对照.md",
     "TODO.md",
     "Pasted image 20240412160319.png",
     "Pasted image 20240412155944.png",
@@ -239,8 +243,6 @@
     "pics/截屏2024-05-24 21.28.52.png",
     "国内面试/实习项目简历描述.md",
     "国内面试/常考内容.md",
-    "国内面试/携程cqj面经.md",
-    "pics/截屏2024-05-19 12.48.40.png",
-    "SSM/01-Maven.md"
+    "pics/截屏2024-05-19 12.48.40.png"
   ]
 }
