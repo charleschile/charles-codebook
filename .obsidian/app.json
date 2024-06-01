@@ -3,5 +3,5 @@
   "attachmentFolderPath": "/pics",
   "promptDelete": false,
   "livePreview": true,
-  "autoConvertHtml": true
+  "autoConvertHtml": false
 }
