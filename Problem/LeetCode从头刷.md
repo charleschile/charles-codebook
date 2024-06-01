@@ -30,4 +30,36 @@ class Solution {
  * int param_1 = obj.pick(target);
 ```
 
-使用水塘抽样算法的做法：
+使用水塘抽样算法的做法：算法参考请使用[[算法学习#01 水塘抽样reservoir sampling]]
+
+```java
+class Solution {
+    private int[] nums;
+    Random random;
+
+    public Solution(int[] nums) {
+        this.nums = nums;
+        this.random = new Random();
+    }
+    
+    public int pick(int target) {
+        int ans = 0;
+        for (int i = 0, cnt = 0; i < nums.length; i++) {
+            if (nums[i] == target) {
+                cnt++;
+                if (random.nextInt(cnt) == 0) {
+                    ans = i;
+                }
+            }
+        }
+        return ans;
+
+    }
+}
+
+/**
+ * Your Solution object will be instantiated and called as such:
+ * Solution obj = new Solution(nums);
+ * int param_1 = obj.pick(target);
+ */
+```

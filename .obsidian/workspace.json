@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "9ca1c6995f0316d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem/LeetCode从头刷.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f7a10c86b13b42c1",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,12 +207,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5fef1b8982082f06",
+  "active": "9ca1c6995f0316d6",
   "lastOpenFiles": [
+    "Problem/Java算法cheatsheet.md",
     "Problem/算法学习.md",
     "Problem/LeetCode从头刷.md",
     "mit6.824/01-introduction.md",
-    "Problem/Java算法cheatsheet.md",
     "Problem/Java刷代码随想录.md",
     "进度对照.md",
     "TODO.md",
