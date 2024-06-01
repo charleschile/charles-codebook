@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem/LeetCode从头刷.md",
+                "file": "Problem/算法学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem/LeetCode从头刷.md",
+                "file": "Problem/算法学习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem/LeetCode从头刷.md",
+                "file": "Problem/算法学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem/LeetCode从头刷.md"
+                "file": "Problem/算法学习.md"
               }
             }
           }
@@ -199,6 +198,8 @@
   },
   "active": "5fef1b8982082f06",
   "lastOpenFiles": [
+    "Problem/LeetCode从头刷.md",
+    "Problem/算法学习.md",
     "Problem/Java算法cheatsheet.md",
     "Problem/Java刷代码随想录.md",
     "进度对照.md",
@@ -221,7 +222,6 @@
     "美团实习/新人练习题串讲.md",
     "rpc项目/rpc远程过程调用.md",
     "651 pre.md",
-    "Problem/LeetCode从头刷.md",
     "美团实习/技巧.md",
     "美团实习/医药智搜业务.md",
     "美团实习/新人串讲题目.md",
@@ -243,7 +243,6 @@
     "pics/截屏2024-05-24 21.29.15.png",
     "pics/截屏2024-05-24 21.28.52.png",
     "国内面试/实习项目简历描述.md",
-    "国内面试/常考内容.md",
     "pics/截屏2024-05-19 12.48.40.png"
   ]
 }
