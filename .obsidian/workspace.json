@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem/LeetCode从头刷.md",
+                "file": "美国面试/matrix origin面试准备.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem/LeetCode从头刷.md",
+                "file": "美国面试/matrix origin面试准备.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem/LeetCode从头刷.md",
+                "file": "美国面试/matrix origin面试准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem/LeetCode从头刷.md"
+                "file": "美国面试/matrix origin面试准备.md"
               }
             }
           }
@@ -209,9 +209,11 @@
   },
   "active": "9ca1c6995f0316d6",
   "lastOpenFiles": [
+    "Problem/LeetCode从头刷.md",
+    "美国面试/matrix origin面试准备.md",
+    "美国面试",
     "Problem/Java算法cheatsheet.md",
     "Problem/算法学习.md",
-    "Problem/LeetCode从头刷.md",
     "mit6.824/01-introduction.md",
     "Problem/Java刷代码随想录.md",
     "进度对照.md",
@@ -247,13 +249,11 @@
     "开源项目/rocketmq.nssyncsc",
     "pics/截屏2024-05-29 09.49.59.nssyncsc",
     "pics/截屏2024-05-29 09.45.07.nssyncsc",
-    "pics/截屏2024-05-29 09.44.30.nssyncsc",
     "rpc项目/b站入门架构师.md",
     "SSM/SSM.md",
     "创业/键盘.md",
     "pics/截屏2024-05-24 21.29.15.png",
     "pics/截屏2024-05-24 21.28.52.png",
-    "国内面试/实习项目简历描述.md",
     "pics/截屏2024-05-19 12.48.40.png"
   ]
 }
