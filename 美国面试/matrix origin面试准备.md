@@ -3,10 +3,11 @@
 
 ### 2. 项目要求以及mentor工作
 go: https://www.turing.com/interview-questions/golang
-
+aws s3: https://medium.com/double-pointer/top-five-most-asked-aws-s3-interview-questions-in-software-engineering-interviews-7c55e5271f37
 
 ### 3. 常问问题
 What programming languages are you familiar with?
+
 
 Describe the last project you worked on including, any obstacles and your contributions to its success.
 
