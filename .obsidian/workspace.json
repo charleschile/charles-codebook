@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "美国面试/matrix origin面试准备.md",
+                "file": "国内面试/面试算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,11 +59,9 @@
             "id": "1c7eeb5c00a4ea38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "开源项目/开源项目收集.md",
-                "mode": "source",
-                "source": false
+                "file": "美团实习/101.新人练习题串讲-乐驰.pdf"
               }
             }
           },
@@ -80,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "动态规划",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "美国面试/matrix origin面试准备.md",
+                "file": "美团实习/101.新人练习题串讲-乐驰.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "美国面试/matrix origin面试准备.md",
+                "file": "美团实习/101.新人练习题串讲-乐驰.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "美国面试/matrix origin面试准备.md"
+                "file": "美团实习/101.新人练习题串讲-乐驰.pdf"
               }
             }
           }
@@ -195,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,15 +206,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9ca1c6995f0316d6",
+  "active": "1c7eeb5c00a4ea38",
   "lastOpenFiles": [
-    "美团实习/101.新人练习题串讲-乐驰.pdf",
-    "美国面试/matrix origin面试准备.md",
     "美团实习/医药串讲.pdf",
+    "美团实习/新人练习题串讲.md",
+    "美团实习/技巧.md",
+    "美国面试/matrix origin面试准备.md",
+    "开源项目/开源项目收集.md",
+    "Problem/算法学习.md",
+    "国内面试/面试算法.md",
+    "美团实习/101.新人练习题串讲-乐驰.pdf",
     "Problem/LeetCode从头刷.md",
     "美国面试",
     "Problem/Java算法cheatsheet.md",
-    "Problem/算法学习.md",
     "mit6.824/01-introduction.md",
     "Problem/Java刷代码随想录.md",
     "进度对照.md",
@@ -233,15 +236,11 @@
     "mapreduce.pdf",
     "经验分享/Optiver学长转码经历分享.md",
     "mit6.824",
-    "美团实习/新人练习题串讲.md",
     "rpc项目/rpc远程过程调用.md",
     "651 pre.md",
-    "美团实习/技巧.md",
     "美团实习/医药智搜业务.md",
     "美团实习/新人串讲题目.md",
-    "国内面试/面试算法.md",
     "开源项目/rocketmq.md",
-    "开源项目/开源项目收集.md",
     "pics/截屏2024-05-29 09.49.59.png",
     "pics/截屏2024-05-29 09.45.07.png",
     "pics/截屏2024-05-29 09.44.30.png",
