@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem/LeetCode从头刷.md",
+                "file": "uiuc申请/UIUC MCS申请.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem/LeetCode从头刷.md",
+                "file": "uiuc申请/UIUC MCS申请.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem/LeetCode从头刷.md",
+                "file": "uiuc申请/UIUC MCS申请.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem/LeetCode从头刷.md"
+                "file": "uiuc申请/UIUC MCS申请.md"
               }
             }
           }
@@ -208,6 +208,9 @@
   },
   "active": "5fef1b8982082f06",
   "lastOpenFiles": [
+    "Problem/LeetCode从头刷.md",
+    "uiuc申请/UIUC MCS申请.md",
+    "uiuc申请",
     "美团实习/医药串讲.pdf",
     "美团实习/新人练习题串讲.md",
     "美团实习/技巧.md",
@@ -216,7 +219,6 @@
     "开源项目/开源项目收集.md",
     "Problem/算法学习.md",
     "国内面试/面试算法.md",
-    "Problem/LeetCode从头刷.md",
     "美国面试",
     "Problem/Java算法cheatsheet.md",
     "mit6.824/01-introduction.md",
@@ -247,7 +249,6 @@
     "pics/截屏2024-05-29 09.43.51.png",
     "开源项目/rocketmq.nssyncsc",
     "pics/截屏2024-05-29 09.49.59.nssyncsc",
-    "pics/截屏2024-05-29 09.45.07.nssyncsc",
     "rpc项目/b站入门架构师.md",
     "SSM/SSM.md",
     "pics/截屏2024-05-24 21.29.15.png",
