@@ -76,6 +76,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68fad3397fd4c581",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -208,13 +218,13 @@
   },
   "active": "3426195dd326798b",
   "lastOpenFiles": [
+    "美团实习/医药串讲.pdf",
+    "未命名 1.md",
     "TODO.md",
     "651 pre.md",
     "SSM/SSM.md",
-    "美团实习/医药串讲.pdf",
     "经验分享/Optiver学长转码经历分享.md",
     "国内面试/面试算法.md",
-    "未命名 1.md",
     "未命名.md",
     "uiuc申请/UIUC MCS申请.md",
     "Problem/LeetCode从头刷.md",
@@ -250,7 +260,6 @@
     "pics/截屏2024-05-29 09.43.51.png",
     "开源项目/rocketmq.nssyncsc",
     "pics/截屏2024-05-29 09.49.59.nssyncsc",
-    "rpc项目/b站入门架构师.md",
     "pics/截屏2024-05-24 21.29.15.png",
     "pics/截屏2024-05-24 21.28.52.png",
     "pics/截屏2024-05-19 12.48.40.png"
