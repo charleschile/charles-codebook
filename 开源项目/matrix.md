@@ -14,3 +14,7 @@ for site in ${SITES[@]}; do
 done
 
 ```
+
+
+
+Arjun, I have deployed MO on my mac and have tried the connection, writing, export, and read data functions of the MO. 
