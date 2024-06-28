@@ -219,8 +219,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "35b0b71fd6b8fdd2",
+  "active": "5fef1b8982082f06",
   "lastOpenFiles": [
+    "Problem/算法学习.md",
     "Java/Java并发编程.md",
     "Java/Java集合.md",
     "Java/acwing01. 变量、运算符、表达式、输入与输出.md",
@@ -235,7 +236,6 @@
     "美国面试/matrix origin面试准备.md",
     "未命名 1.md",
     "项目代码记录.md",
-    "Problem/算法学习.md",
     "Problem/LeetCode从头刷.md",
     "Problem/Java算法cheatsheet.md",
     "TODO.md",
