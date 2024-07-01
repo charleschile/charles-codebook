@@ -89,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
+                "file": "Problem/算法学习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
+                "file": "Problem/算法学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md"
+                "file": "Problem/算法学习.md"
               }
             }
           }
@@ -219,10 +218,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5fef1b8982082f06",
+  "active": "b556ea93a3397523",
   "lastOpenFiles": [
-    "Problem/算法学习.md",
     "Java/Java并发编程.md",
+    "未命名 1.md",
+    "Problem/算法学习.md",
     "Java/Java集合.md",
     "Java/acwing01. 变量、运算符、表达式、输入与输出.md",
     "美团实习/新人练习题串讲.md",
@@ -234,7 +234,6 @@
     "进度对照.md",
     "经验分享/Optiver学长转码经历分享.md",
     "美国面试/matrix origin面试准备.md",
-    "未命名 1.md",
     "项目代码记录.md",
     "Problem/LeetCode从头刷.md",
     "Problem/Java算法cheatsheet.md",
