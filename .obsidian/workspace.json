@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 4.md",
+                "file": "未命名 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 4.md",
+                "file": "未命名 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 4.md"
+                "file": "未命名 3.md"
               }
             }
           }
@@ -255,13 +255,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e5ab87012ea8aa59",
+  "active": "108667da15363551",
   "lastOpenFiles": [
+    "未命名 4.md",
+    "未命名 3.md",
     "pics/截屏2024-07-10 16.59.07.png",
     "Pasted image 20240412160319.png",
     "plan.md",
-    "未命名 4.md",
-    "未命名 3.md",
     "pics/Pasted image 20240706213306.png",
     "pics/Pasted image 20240706213131.png",
     "未命名 2.md",
@@ -301,7 +301,6 @@
     "pics/截屏2024-05-29 09.44.30.png",
     "pics/截屏2024-05-29 09.43.51.png",
     "开源项目/rocketmq.nssyncsc",
-    "pics/截屏2024-05-29 09.49.59.nssyncsc",
-    "pics/截屏2024-05-24 21.29.15.png"
+    "pics/截屏2024-05-29 09.49.59.nssyncsc"
   ]
 }
