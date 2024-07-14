@@ -1,3 +1,8 @@
+
+
+
+
+
 ### [398. Random Pick Index](https://leetcode.cn/problems/random-pick-index/)
 
 暴力使用哈希表的做法：
