@@ -101,6 +101,56 @@ SELECT id, original_data, encoded_data FROM test_encode_decode_table1;
 ```
 
 
+```mysql
+
+CREATE TABLE IF NOT EXISTS test_encode_decode_table1 (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    original_data VARCHAR(255),
+    encoded_data blob
+);
+
+
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('', ENCODE('', ''));
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('MatrixOne', ENCODE('MatrixOne', '1234567890123456'));
+
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('MatrixOne', ENCODE('MatrixOne', 'asdfjasfwefjfjkj'));
+
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('MatrixOne123', ENCODE('MatrixOne123', '123456789012345678901234'));
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('MatrixOne#%$%^', ENCODE('MatrixOne#%$%^', '*^%YTu1234567'));
+
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('MatrixOne', ENCODE('MatrixOne', ''));
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('分布式データベース', ENCODE('分布式データベース', 'pass1234@#$%%^^&'));
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('分布式データベース', ENCODE('分布式データベース', '分布式7782734adgwy1242'));
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('MatrixOne', ENCODE('MatrixOne', '密匙'));
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('MatrixOne数据库', ENCODE('MatrixOne数据库', '数据库passwd12345667'));
+
+SELECT id, original_data, encoded_data FROM test_encode_decode_table1;
+
+
+```
+```
+
+
 ```sql
 SELECT DECODE(ENCODE('Hello, World!', 'mysecretkey'), 'mysecretkey') AS Result;
 
