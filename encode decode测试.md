@@ -105,6 +105,11 @@ SELECT id, original_data, encoded_data FROM test_encode_decode_table1;
 SELECT DECODE(ENCODE('Hello, World!', 'mysecretkey'), 'mysecretkey') AS Result;
 
 SELECT DECODE(UNHEX('D51ED05B10610A7CD54B3D0398E7B4536D57D78084A7F6E6F27C3B'), '分布式7782734adgwy1242') AS Result FROM test_encode_decode_table1;
+
+
+SELECT HEX(ENCODE('分布式データベース', '分布式7782734adgwy1242'));
+
+
 ```
 
 
