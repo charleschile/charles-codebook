@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "分布式データベース",
+                "query": "mo_ctl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "480830a409a3c29d",
+  "active": "eff3d2b24727ec1c",
   "lastOpenFiles": [
     "bug书.md",
     "encode decode测试.md",

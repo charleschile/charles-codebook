@@ -9,6 +9,8 @@ mo_ctl set_conf MO_GIT_URL="git@github.com:charleschile/matrixone.git"
 
 mo_ctl deploy feature/encode-decode
 
+mo_ctl deploy feature/aes-encode-decode
+
 mo_ctl start
 
 mo_ctl connect
