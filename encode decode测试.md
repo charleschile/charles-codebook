@@ -104,7 +104,7 @@ SELECT id, original_data, encoded_data FROM test_encode_decode_table1;
 ```sql
 SELECT DECODE(ENCODE('Hello, World!', 'mysecretkey'), 'mysecretkey') AS Result;
 
-SELECT DECODE(UNHEX('22644B0389B058594FF0D0E7E052555B99BB'), '数据库passwd12345667') AS Result FROM test_encode_decode_table1;
+SELECT DECODE(UNHEX('D51ED05B10610A7CD54B3D0398E7B4536D57D78084A7F6E6F27C3B'), '分布式7782734adgwy1242') AS Result FROM test_encode_decode_table1;
 ```
 
 
