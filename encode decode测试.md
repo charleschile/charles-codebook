@@ -112,37 +112,37 @@ CREATE TABLE IF NOT EXISTS test_encode_decode_table1 (
 
 
 INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
-VALUES ('', ENCODE('', ''));
+VALUES ('', DECODE('', ''));
 
 INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
-VALUES ('MatrixOne', ENCODE('MatrixOne', '1234567890123456'));
-
-
-INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
-VALUES ('MatrixOne', ENCODE('MatrixOne', 'asdfjasfwefjfjkj'));
+VALUES ('MatrixOne', DECODE('MatrixOne', '1234567890123456'));
 
 
 INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
-VALUES ('MatrixOne123', ENCODE('MatrixOne123', '123456789012345678901234'));
-
-INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
-VALUES ('MatrixOne#%$%^', ENCODE('MatrixOne#%$%^', '*^%YTu1234567'));
+VALUES ('MatrixOne', DECODE('MatrixOne', 'asdfjasfwefjfjkj'));
 
 
 INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
-VALUES ('MatrixOne', ENCODE('MatrixOne', ''));
+VALUES ('MatrixOne123', DECODE('MatrixOne123', '123456789012345678901234'));
 
 INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
-VALUES ('分布式データベース', ENCODE('分布式データベース', 'pass1234@#$%%^^&'));
+VALUES ('MatrixOne#%$%^', DECODE('MatrixOne#%$%^', '*^%YTu1234567'));
+
 
 INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
-VALUES ('分布式データベース', ENCODE('分布式データベース', '分布式7782734adgwy1242'));
+VALUES ('MatrixOne', DECODE('MatrixOne', ''));
 
 INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
-VALUES ('MatrixOne', ENCODE('MatrixOne', '密匙'));
+VALUES ('分布式データベース', DECODE('分布式データベース', 'pass1234@#$%%^^&'));
 
 INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
-VALUES ('MatrixOne数据库', ENCODE('MatrixOne数据库', '数据库passwd12345667'));
+VALUES ('分布式データベース', DECODE('分布式データベース', '分布式7782734adgwy1242'));
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('MatrixOne', DECODE('MatrixOne', '密匙'));
+
+INSERT INTO test_encode_decode_table1 (original_data, encoded_data)
+VALUES ('MatrixOne数据库', DECODE('MatrixOne数据库', '数据库passwd12345667'));
 
 SELECT id, original_data, encoded_data FROM test_encode_decode_table1;
 
