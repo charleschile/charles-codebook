@@ -15,6 +15,9 @@ mo_ctl start
 
 mo_ctl connect
 
+./run.sh -p /Users/charles/Desktop/codes/matrixone/matrixone/test/distributed/cases/function/func_decode_encode.sql
+
+
 ```
 
 
