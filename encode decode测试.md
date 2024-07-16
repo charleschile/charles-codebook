@@ -147,7 +147,7 @@ VALUES ('MatrixOne数据库', DECODE('MatrixOne数据库', '数据库passwd12345
 SELECT id, original_data, encoded_data FROM test_encode_decode_table1;
 
 
-```
+
 ```
 
 
@@ -158,12 +158,7 @@ SELECT DECODE(UNHEX('D51ED05B10610A7CD54B3D0398E7B4536D57D78084A7F6E6F27C3B'), '
 
 
 SELECT HEX(ENCODE('分布式データベース', '分布式7782734adgwy1242'));
-
-
 ```
-
-
-
 
 // data structs for encoding and decoding
 type randStruct struct {
