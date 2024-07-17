@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "encode decode测试.md",
+                "file": "草稿纸.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "encode decode测试.md",
+                "file": "草稿纸.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "encode decode测试.md",
+                "file": "草稿纸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "encode decode测试.md"
+                "file": "草稿纸.md"
               }
             }
           }
@@ -148,10 +147,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eff3d2b24727ec1c",
+  "active": "480830a409a3c29d",
   "lastOpenFiles": [
-    "bug书.md",
     "encode decode测试.md",
+    "bug书.md",
     "未命名 4.md",
     "Problem/LeetCode从头刷.md",
     "未命名 5.md",
