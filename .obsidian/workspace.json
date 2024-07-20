@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿纸.md",
+                "file": "未命名 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mo_ctl",
+                "query": "chunk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿纸.md",
+                "file": "未命名 5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿纸.md",
+                "file": "未命名 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿纸.md"
+                "file": "未命名 5.md"
               }
             }
           }
@@ -149,16 +149,21 @@
   },
   "active": "480830a409a3c29d",
   "lastOpenFiles": [
-    "encode decode测试.md",
-    "bug书.md",
+    "pics/Pasted image 20240720175626.png",
     "未命名 4.md",
-    "Problem/LeetCode从头刷.md",
+    "encode decode测试.md",
     "未命名 5.md",
-    "未命名 2.md",
-    "未命名 1.md",
-    "未命名.md",
-    "TODO.md",
+    "Pasted image 20240411161209.png",
+    "macbook选购选购.md",
     "git branch.md",
+    "bug书.md",
+    "未命名 1.md",
+    "草稿纸.md",
+    "未命名 2.md",
+    "未命名.md",
+    "进度对照.md",
+    "Problem/LeetCode从头刷.md",
+    "TODO.md",
     "pics/Pasted image 20240716215942.png",
     "pics/Pasted image 20240716205023.png",
     "pics/Pasted image 20240716204707.png",
@@ -174,7 +179,6 @@
     "问题.md",
     "pics/截屏2024-07-10 16.59.07.png",
     "Pasted image 20240412160319.png",
-    "pics/Pasted image 20240706213306.png",
     "Java/Java并发编程.md",
     "Java/Java集合.md",
     "Java/acwing01. 变量、运算符、表达式、输入与输出.md",
@@ -182,10 +186,6 @@
     "美团实习/医药串讲.pdf",
     "开源项目/matrix.md",
     "开源项目/开源项目收集.md",
-    "国内面试/面试算法.md",
-    "进度对照.md",
-    "经验分享/Optiver学长转码经历分享.md",
-    "美国面试/matrix origin面试准备.md",
     "uiuc申请",
     "美团实习/101.新人练习题串讲-乐驰.pdf",
     "美国面试",
