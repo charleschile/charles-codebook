@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "127",
+                "query": "embedding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
