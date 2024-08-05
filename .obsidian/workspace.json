@@ -47,9 +47,11 @@
             "id": "c2c4def0ca119825",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "美团实习/医药串讲.pdf"
+                "file": "未命名 4.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "美团实习/医药串讲.pdf",
+                "file": "未命名 4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "美团实习/医药串讲.pdf",
+                "file": "未命名 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "美团实习/医药串讲.pdf"
+                "file": "未命名 4.md"
               }
             }
           }
@@ -184,43 +186,43 @@
   },
   "active": "c2c4def0ca119825",
   "lastOpenFiles": [
-    "未命名 6.md",
+    "pics/Pasted image 20240806003648.png",
+    "显卡.md",
     "未命名 4.md",
+    "问题.md",
+    "global variable和 embedding的测试.md",
+    "项目代码记录.md",
+    "bug书.md",
+    "Pasted image 20240412155944.png",
+    "Pasted image 20240411161209.png",
+    "macbook选购选购.md",
+    "git branch.md",
+    "未命名 3.md",
+    "未命名 2.md",
+    "进度对照.md",
+    "未命名.md",
+    "未命名 1.md",
+    "美团实习/医药串讲.pdf",
     "TODO.md",
     "uiuc申请/UIUC MCS申请.md",
     "651 pre.md",
     "草稿纸.md",
-    "进度对照.md",
-    "未命名.md",
-    "未命名 1.md",
-    "未命名 2.md",
-    "未命名 3.md",
-    "未命名 5.md",
-    "问题.md",
-    "项目代码记录.md",
-    "bug书.md",
     "encode decode测试.md",
-    "git branch.md",
     "plan.md",
     "pics/截屏2024-07-20 18.55.21.png",
     "pics/截屏2024-07-20 18.54.30.png",
     "pics/Pasted image 20240720181557.png",
     "pics/Pasted image 20240720175626.png",
-    "Pasted image 20240411161209.png",
-    "macbook选购选购.md",
     "Problem/LeetCode从头刷.md",
     "pics/Pasted image 20240716215942.png",
     "pics/Pasted image 20240716205023.png",
     "pics/Pasted image 20240716204707.png",
     "pics/Pasted image 20240716204649.png",
-    "pics/Pasted image 20240715224745.png",
     "Problem/算法学习.md",
     "Problem/Java刷代码随想录.md",
     "Problem/Java算法cheatsheet.md",
     "美国面试/Computer English.md",
     "Java/Java并发编程.md",
-    "Java/Java集合.md",
-    "美团实习/医药串讲.pdf",
     "uiuc申请",
     "美团实习/101.新人练习题串讲-乐驰.pdf",
     "美国面试",
