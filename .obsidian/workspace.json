@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem/算法学习.md",
+                "file": "未命名 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,12 +183,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2845b5bb19c69410",
+  "active": "480830a409a3c29d",
   "lastOpenFiles": [
     "未命名 3.md",
+    "Problem/算法学习.md",
+    "TODO.md",
+    "未命名 4.md",
     "草稿纸.md",
     "pics/example.txt",
-    "未命名 4.md",
     "开源项目/Usage of.md",
     "开源项目/go 项目建立运行.md",
     "开源项目/matrix.md",
@@ -213,7 +214,6 @@
     "未命名.md",
     "未命名 1.md",
     "美团实习/医药串讲.pdf",
-    "TODO.md",
     "uiuc申请/UIUC MCS申请.md",
     "651 pre.md",
     "encode decode测试.md",
