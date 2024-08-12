@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,12 +184,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "35b0b71fd6b8fdd2",
+  "active": "2845b5bb19c69410",
   "lastOpenFiles": [
     "未命名 3.md",
-    "Problem/算法学习.md",
-    "TODO.md",
     "未命名 4.md",
+    "TODO.md",
+    "Problem/算法学习.md",
     "草稿纸.md",
     "pics/example.txt",
     "开源项目/Usage of.md",
