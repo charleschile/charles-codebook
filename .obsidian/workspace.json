@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,15 +184,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2845b5bb19c69410",
+  "active": "480830a409a3c29d",
   "lastOpenFiles": [
+    "TODO.md",
+    "未命名 4.md",
     "pics/Pasted image 20240812161735.png",
     "pics/Pasted image 20240812161721.png",
     "pics/Pasted image 20240812150848.png",
     "pics/Pasted image 20240812145729.png",
     "未命名 3.md",
-    "未命名 4.md",
-    "TODO.md",
     "Problem/算法学习.md",
     "草稿纸.md",
     "pics/example.txt",
@@ -224,7 +223,6 @@
     "651 pre.md",
     "encode decode测试.md",
     "plan.md",
-    "pics/截屏2024-07-20 18.55.21.png",
     "uiuc申请",
     "美团实习/101.新人练习题串讲-乐驰.pdf",
     "美国面试",
