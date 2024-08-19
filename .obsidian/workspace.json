@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "checkout",
+                "query": "off",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +113,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -196,7 +196,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "480830a409a3c29d",
+  "active": "eff3d2b24727ec1c",
   "lastOpenFiles": [
     "问题.md",
     "8.19 matrixone记录.md",
