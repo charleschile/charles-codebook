@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 4.md",
+                "file": "问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -171,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,12 +185,13 @@
   "active": "480830a409a3c29d",
   "lastOpenFiles": [
     "TODO.md",
+    "问题.md",
+    "未命名 3.md",
     "未命名 4.md",
     "pics/Pasted image 20240812161735.png",
     "pics/Pasted image 20240812161721.png",
     "pics/Pasted image 20240812150848.png",
     "pics/Pasted image 20240812145729.png",
-    "未命名 3.md",
     "Problem/算法学习.md",
     "草稿纸.md",
     "pics/example.txt",
@@ -206,7 +205,6 @@
     "pics/Pasted image 20240806014415.png",
     "pics/Pasted image 20240806003648.png",
     "显卡.md",
-    "问题.md",
     "global variable和 embedding的测试.md",
     "项目代码记录.md",
     "bug书.md",
