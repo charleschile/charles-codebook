@@ -54,8 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c4c61643f87cd06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8.19 matrixone记录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 4.md",
+                "file": "8.19 matrixone记录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 4.md",
+                "file": "8.19 matrixone记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 4.md"
+                "file": "8.19 matrixone记录.md"
               }
             }
           }
@@ -182,12 +195,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "480830a409a3c29d",
+  "active": "9c4c61643f87cd06",
   "lastOpenFiles": [
+    "8.19 matrixone记录.md",
+    "未命名 4.md",
     "TODO.md",
     "问题.md",
     "未命名 3.md",
-    "未命名 4.md",
     "pics/Pasted image 20240812161735.png",
     "pics/Pasted image 20240812161721.png",
     "pics/Pasted image 20240812150848.png",
