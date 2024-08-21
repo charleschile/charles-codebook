@@ -1,5 +1,9 @@
 # sublime使用方法
-使用control - b来运行测试
+使用control  b来运行测试
+
+使用command + 或者command -来调整字体大小
+
+command shif p来打开sublime的命令行
 
 
 ### mac上下载gcc
