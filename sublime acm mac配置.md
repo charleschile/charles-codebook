@@ -1,9 +1,12 @@
 # sublime使用方法
 使用control  b来运行测试
+使用control k p 来关闭侧边拦
 
 使用command + 或者command -来调整字体大小
 
 command shif p来打开sublime的命令行
+
+想要更改fast olympic设置使用browse package
 
 
 ### mac上下载gcc
