@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 4.md",
+                "file": "创业/键盘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dbfc2921844fe34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sublime acm mac配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "llama3",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 4.md",
+                "file": "sublime acm mac配置.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 4.md",
+                "file": "sublime acm mac配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 4.md"
+                "file": "sublime acm mac配置.md"
               }
             }
           }
@@ -196,12 +208,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eff3d2b24727ec1c",
+  "active": "1dbfc2921844fe34",
   "lastOpenFiles": [
+    "创业/键盘.md",
+    "sublime acm mac配置.md",
+    "未命名 4.md",
     "问题.md",
     "8.19 matrixone记录.md",
     "未命名 3.md",
-    "未命名 4.md",
     "TODO.md",
     "pics/Pasted image 20240812161735.png",
     "pics/Pasted image 20240812161721.png",
@@ -234,8 +248,6 @@
     "美团实习/医药串讲.pdf",
     "uiuc申请/UIUC MCS申请.md",
     "651 pre.md",
-    "encode decode测试.md",
-    "plan.md",
     "uiuc申请",
     "美团实习/101.新人练习题串讲-乐驰.pdf",
     "美国面试",
