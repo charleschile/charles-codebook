@@ -30,3 +30,8 @@ gcc-14 -v
 which gcc-14
 ```
 来查看gcc-14命令的地址
+
+```shell
+alias gcc='gcc-14'
+alias g++='g++-14'
+```
