@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sublime acm mac配置.md",
+                "file": "国内面试/linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sublime acm mac配置.md",
+                "file": "国内面试/linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sublime acm mac配置.md",
+                "file": "国内面试/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sublime acm mac配置.md"
+                "file": "国内面试/linux.md"
               }
             }
           }
@@ -210,8 +210,16 @@
   },
   "active": "1dbfc2921844fe34",
   "lastOpenFiles": [
-    "创业/键盘.md",
+    "国内面试/自己携程面试.md",
+    "国内面试/linux.md",
+    "国内面试/rpc项目问题.md",
+    "国内面试/自己面试问题.md",
+    "国内面试/自己面试面经.md",
+    "国内面试/实习项目简历描述.md",
+    "国内面试/面试算法.md",
+    "国内面试/常考内容.md",
     "sublime acm mac配置.md",
+    "创业/键盘.md",
     "未命名 4.md",
     "问题.md",
     "8.19 matrixone记录.md",
@@ -239,15 +247,7 @@
     "bug书.md",
     "Pasted image 20240412155944.png",
     "Pasted image 20240411161209.png",
-    "macbook选购选购.md",
-    "git branch.md",
-    "未命名 2.md",
-    "进度对照.md",
-    "未命名.md",
-    "未命名 1.md",
     "美团实习/医药串讲.pdf",
-    "uiuc申请/UIUC MCS申请.md",
-    "651 pre.md",
     "uiuc申请",
     "美团实习/101.新人练习题串讲-乐驰.pdf",
     "美国面试",
