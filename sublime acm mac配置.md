@@ -1,3 +1,5 @@
+# sublime使用方法
+使用control - b来运行测试
 
 
 ### mac上下载gcc
