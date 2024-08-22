@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经验分享/非常棒的经验分享.md",
+                "file": "ddia/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经验分享/非常棒的经验分享.md",
+                "file": "ddia/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经验分享/非常棒的经验分享.md",
+                "file": "ddia/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经验分享/非常棒的经验分享.md"
+                "file": "ddia/未命名.md"
               }
             }
           }
@@ -210,9 +210,13 @@
   },
   "active": "1dbfc2921844fe34",
   "lastOpenFiles": [
+    "经验分享/非常棒的经验分享.md",
+    "ddia/未命名.md",
+    "未命名/000_坚果云闪电下载介绍.url.nssyncsc",
+    "未命名",
+    "ddia",
     "TODO.md",
     "问题.md",
-    "经验分享/非常棒的经验分享.md",
     "经验分享/Optiver学长转码经历分享.md",
     "经验分享/自学CS路线、课程推荐.md",
     "经验分享/快速面试准备.md",
@@ -239,7 +243,6 @@
     "pics/Pasted image 20240812161721.png",
     "pics/Pasted image 20240812150848.png",
     "pics/Pasted image 20240812145729.png",
-    "草稿纸.md",
     "pics/example.txt",
     "pics/Pasted image 20240806021034.png",
     "pics/Pasted image 20240806015520.png",
@@ -252,9 +255,6 @@
     "美团实习/101.新人练习题串讲-乐驰.pdf",
     "美国面试",
     "mit6.824/mapreduce.pdf",
-    "mit6.824/mapreduce.pdf.sb-7bfb4c89-2MjtfC",
-    "mapreduce.pdf",
-    "mit6.824",
-    "开源项目/rocketmq.nssyncsc"
+    "mit6.824/mapreduce.pdf.sb-7bfb4c89-2MjtfC"
   ]
 }
