@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ddia/未命名.md",
+                "file": "显卡.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ti super",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ddia/未命名.md",
+                "file": "显卡.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ddia/未命名.md",
+                "file": "显卡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ddia/未命名.md"
+                "file": "显卡.md"
               }
             }
           }
@@ -208,12 +209,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1dbfc2921844fe34",
+  "active": "eff3d2b24727ec1c",
   "lastOpenFiles": [
-    "经验分享/非常棒的经验分享.md",
+    "mit6.824/01-introduction.md",
+    "mit6.824/mapreduce.pdf",
+    "开源项目/rocketmq.md",
+    "开源项目/Usage of.md",
+    "开源项目/matrix.md",
+    "开源项目/go 项目建立运行.md",
+    "开源项目/开源项目收集.md",
     "ddia/未命名.md",
+    "未命名 1",
+    "经验分享/非常棒的经验分享.md",
     "未命名/000_坚果云闪电下载介绍.url.nssyncsc",
-    "未命名",
+    "新加坡面试",
     "ddia",
     "TODO.md",
     "问题.md",
@@ -232,13 +241,6 @@
     "国内面试/自己面试问题.md",
     "国内面试/自己面试面经.md",
     "国内面试/携程cqj面经.md",
-    "国内面试/实习项目简历描述.md",
-    "国内面试/面试算法.md",
-    "国内面试/常考内容.md",
-    "sublime acm mac配置.md",
-    "未命名 4.md",
-    "8.19 matrixone记录.md",
-    "未命名 3.md",
     "pics/Pasted image 20240812161735.png",
     "pics/Pasted image 20240812161721.png",
     "pics/Pasted image 20240812150848.png",
@@ -253,8 +255,6 @@
     "美团实习/医药串讲.pdf",
     "uiuc申请",
     "美团实习/101.新人练习题串讲-乐驰.pdf",
-    "美国面试",
-    "mit6.824/mapreduce.pdf",
-    "mit6.824/mapreduce.pdf.sb-7bfb4c89-2MjtfC"
+    "美国面试"
   ]
 }
