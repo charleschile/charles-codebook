@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 4.md",
+                "file": "开源项目/matrixone 开发全记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 5.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 5.md",
+                "file": "开源项目/matrixone 开发全记录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 5.md",
+                "file": "开源项目/matrixone 开发全记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 5.md"
+                "file": "开源项目/matrixone 开发全记录.md"
               }
             }
           }
@@ -209,11 +208,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e56a67ee084e457",
+  "active": "9c4c61643f87cd06",
   "lastOpenFiles": [
-    "未命名 4.md",
-    "未命名 5.md",
+    "TODO.md",
+    "开源项目/rocketmq.md",
+    "开源项目/matrix.md",
+    "开源项目/go 项目建立运行.md",
+    "开源项目/开源项目收集.md",
+    "651 pre.md",
     "8.19 matrixone记录.md",
+    "未命名 5.md",
+    "开源项目/matrixone 开发全记录.md",
     "创业/键盘.md",
     "未命名 3.md",
     "数学/线性代数.md",
@@ -225,18 +230,13 @@
     "数学",
     "mit6.824/01-introduction.md",
     "mit6.824/mapreduce.pdf",
-    "开源项目/rocketmq.md",
     "开源项目/Usage of.md",
-    "开源项目/matrix.md",
-    "开源项目/go 项目建立运行.md",
-    "开源项目/开源项目收集.md",
     "ddia/未命名.md",
     "未命名 1",
     "经验分享/非常棒的经验分享.md",
     "未命名/000_坚果云闪电下载介绍.url.nssyncsc",
     "新加坡面试",
     "ddia",
-    "TODO.md",
     "问题.md",
     "经验分享/Optiver学长转码经历分享.md",
     "经验分享/自学CS路线、课程推荐.md",
@@ -247,7 +247,6 @@
     "Problem/Java算法cheatsheet.md",
     "Problem/算法学习.md",
     "国内面试/rpc项目问题.md",
-    "国内面试/linux.md",
     "pics/Pasted image 20240812161735.png",
     "pics/Pasted image 20240812161721.png",
     "pics/Pasted image 20240812150848.png",
