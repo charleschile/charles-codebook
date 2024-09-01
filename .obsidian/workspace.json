@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "llm_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,7 +209,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9c4c61643f87cd06",
+  "active": "eff3d2b24727ec1c",
   "lastOpenFiles": [
     "TODO.md",
     "开源项目/rocketmq.md",

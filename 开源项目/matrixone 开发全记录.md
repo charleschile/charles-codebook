@@ -1055,3 +1055,6 @@ ask function and stage url
 
 
 ### 9.1开发
+
+
+SELECT llm_embedding("This is text... bla ");
