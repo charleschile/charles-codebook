@@ -1058,3 +1058,6 @@ ask function and stage url
 
 
 SELECT llm_embedding("This is text... bla ");
+
+
+SELECT llm_embedding(cast('file:///Users/charles/Desktop/codes/testData/embeddingTest.txt' as datalink));
