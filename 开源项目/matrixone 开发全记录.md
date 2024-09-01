@@ -1061,3 +1061,6 @@ SELECT llm_embedding("This is text... bla ");
 
 
 SELECT llm_embedding(cast('file:///Users/charles/Desktop/codes/testData/embeddingTest.txt' as datalink));
+
+
+SELECT LOAD_FILE(cast('file:///Users/charles/Desktop/codes/testData/embeddingTest.txt' as datalink));
