@@ -42,6 +42,18 @@ The data sent in the request body is a JSON object:
 }
 ```
 
+response body :
+```json
+{
+"model":"llama3",
+"embeddings":[
+[4096]
+],
+"total_duration":7472437416,
+"load_duration":7335258708,
+"prompt_eval_count":6
+}
+```
 
 
 ### Interacts with Ollama REST API in Golang
@@ -120,24 +132,6 @@ func callOllamaService(requestBody []byte) ([][]float32, error) {
 	}
 
 	return embeddingResponse.Embeddings, nil
-}
-
-// take single input, make a POST request to Ollama API and return embedding
-func getOllamaSingleEmbedding(input string, model string) ([]float32, error) {
-	payload := OllamaSingleEmbeddingRequest{
-		Model: model,
-		Input: input,
-	}
-
-	// Marshal the payload to JSON
-	requestBody, err := json.Marshal(payload)
-	if err != nil {
-		return nil, fmt.Errorf("failed to marshal request body: %v", err)
-	}
-
-	embeddings, err := callOllamaService(requestBody)
-
-	return embeddings[0], nil
 }
 
 
