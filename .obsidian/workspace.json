@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开源项目/matrixone 开发全记录.md",
+                "file": "开源项目/embedding开发关键.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "llm_",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开源项目/matrixone 开发全记录.md",
+                "file": "开源项目/embedding开发关键.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开源项目/matrixone 开发全记录.md",
+                "file": "开源项目/embedding开发关键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开源项目/matrixone 开发全记录.md"
+                "file": "开源项目/embedding开发关键.md"
               }
             }
           }
@@ -209,17 +208,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eff3d2b24727ec1c",
+  "active": "9c4c61643f87cd06",
   "lastOpenFiles": [
-    "TODO.md",
     "开源项目/rocketmq.md",
+    "开源项目/embedding开发关键.md",
+    "开源项目/matrixone 开发全记录.md",
+    "TODO.md",
     "开源项目/matrix.md",
     "开源项目/go 项目建立运行.md",
     "开源项目/开源项目收集.md",
     "651 pre.md",
     "8.19 matrixone记录.md",
     "未命名 5.md",
-    "开源项目/matrixone 开发全记录.md",
     "创业/键盘.md",
     "未命名 3.md",
     "数学/线性代数.md",
@@ -247,7 +247,6 @@
     "Problem/Java刷代码随想录.md",
     "Problem/Java算法cheatsheet.md",
     "Problem/算法学习.md",
-    "国内面试/rpc项目问题.md",
     "pics/Pasted image 20240812161735.png",
     "pics/Pasted image 20240812161721.png",
     "pics/Pasted image 20240812150848.png",
