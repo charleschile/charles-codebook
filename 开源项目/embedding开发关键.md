@@ -41,3 +41,13 @@ The data sent in the request body is a JSON object:
   "input": "Why is the sky blue?"
 }
 ```
+
+
+
+### Interacts with Ollama REST API in Golang
+
+My code interacts with a REST API by sending a POST request with JSON data, and it processes the JSON response to extract embeddings
+
+#### json.Marshal
+
+json.Marshal is a function in the Go standard library's encoding/json package. It is used to encode Go data structures (such as structs, slices, and maps) into JSON format. This process is known as "serialization" or "encoding."
