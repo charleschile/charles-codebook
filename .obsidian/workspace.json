@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开源项目/embedding开发关键.md",
+                "file": "global variable和 embedding的测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "show global",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,12 +125,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开源项目/embedding开发关键.md",
+                "file": "创业/键盘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开源项目/embedding开发关键.md",
+                "file": "创业/键盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开源项目/embedding开发关键.md"
+                "file": "创业/键盘.md"
               }
             }
           }
@@ -209,12 +208,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9c4c61643f87cd06",
+  "active": "480830a409a3c29d",
   "lastOpenFiles": [
-    "开源项目/rocketmq.md",
-    "开源项目/embedding开发关键.md",
-    "开源项目/matrixone 开发全记录.md",
+    "数学/线性代数.md",
     "TODO.md",
+    "global variable和 embedding的测试.md",
+    "开源项目/embedding开发关键.md",
+    "开源项目/rocketmq.md",
+    "开源项目/matrixone 开发全记录.md",
     "开源项目/matrix.md",
     "开源项目/go 项目建立运行.md",
     "开源项目/开源项目收集.md",
@@ -223,7 +224,6 @@
     "未命名 5.md",
     "创业/键盘.md",
     "未命名 3.md",
-    "数学/线性代数.md",
     "pics/Pasted image 20240824174239.png",
     "pics/Pasted image 20240824174220.png",
     "pics/Pasted image 20240824174155.png",
@@ -247,7 +247,6 @@
     "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
     "Problem/Java刷代码随想录.md",
     "Problem/Java算法cheatsheet.md",
-    "Problem/算法学习.md",
     "pics/Pasted image 20240812161735.png",
     "pics/Pasted image 20240812161721.png",
     "pics/Pasted image 20240812150848.png",
