@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "创业/键盘.md",
+                "file": "encode decode测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "show global",
+                "query": "./run.sh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "创业/键盘.md",
+                "file": "encode decode测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "创业/键盘.md",
+                "file": "encode decode测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创业/键盘.md"
+                "file": "encode decode测试.md"
               }
             }
           }
@@ -210,6 +210,7 @@
   },
   "active": "480830a409a3c29d",
   "lastOpenFiles": [
+    "创业/键盘.md",
     "数学/线性代数.md",
     "TODO.md",
     "global variable和 embedding的测试.md",
@@ -222,7 +223,6 @@
     "651 pre.md",
     "8.19 matrixone记录.md",
     "未命名 5.md",
-    "创业/键盘.md",
     "未命名 3.md",
     "pics/Pasted image 20240824174239.png",
     "pics/Pasted image 20240824174220.png",

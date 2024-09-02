@@ -17,6 +17,8 @@ mo_ctl connect
 
 ./run.sh -p /Users/charles/Desktop/codes/matrixone/matrixone/test/distributed/cases/function/func_decode_encode.sql
 
+./run.sh -p /Users/charles/Desktop/codes/matrixone/matrixone/test/distributed/cases/function/func_llm_chunk.sql
+
 ./run.sh -p /Users/charles/Desktop/codes/matrixone/matrixone/test/distributed/cases
 
 
