@@ -209,3 +209,6 @@ mo-tester file
 fileservice -> io.reader
 llm index 
 
+
+
+ask function
