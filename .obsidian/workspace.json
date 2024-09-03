@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "encode decode测试.md",
+                "file": "开源项目/embedding开发关键.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,6 +78,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37dc45a8f3a99cc6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -108,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "./run.sh",
+                "query": "4096",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "encode decode测试.md",
+                "file": "开源项目/embedding开发关键.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "encode decode测试.md",
+                "file": "开源项目/embedding开发关键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "encode decode测试.md"
+                "file": "开源项目/embedding开发关键.md"
               }
             }
           }
@@ -210,11 +218,12 @@
   },
   "active": "480830a409a3c29d",
   "lastOpenFiles": [
+    "开源项目/embedding开发关键.md",
+    "encode decode测试.md",
     "创业/键盘.md",
     "数学/线性代数.md",
     "TODO.md",
     "global variable和 embedding的测试.md",
-    "开源项目/embedding开发关键.md",
     "开源项目/rocketmq.md",
     "开源项目/matrixone 开发全记录.md",
     "开源项目/matrix.md",
@@ -246,7 +255,6 @@
     "经验分享/面试经验.md",
     "经验分享/24届非科班Java后端转码经验贴 学习路线秋招总结.md",
     "Problem/Java刷代码随想录.md",
-    "Problem/Java算法cheatsheet.md",
     "pics/Pasted image 20240812161735.png",
     "pics/Pasted image 20240812161721.png",
     "pics/Pasted image 20240812150848.png",

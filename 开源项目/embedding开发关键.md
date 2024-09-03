@@ -192,3 +192,18 @@ o 是接收者变量：在方法 GetEmbedding 中，o 是 OllamaEmbeddingService
 
 
 
+
+
+result verifiaction证明extract是正确的
+find 2 paragraph 
+
+substring test -》
+
+do counting
+
+write the LLM embedding tests and disable it 
+file a bug and put comment on file 
+do not run this 
+mo-tester file 
+
+fileservice -> 
