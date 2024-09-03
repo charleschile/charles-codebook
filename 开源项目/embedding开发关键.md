@@ -212,3 +212,7 @@ llm index
 
 
 ask function
+
+load file ->
+ask function 
+
