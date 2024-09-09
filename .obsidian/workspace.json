@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "4096",
+                "query": "l2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,7 +216,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "480830a409a3c29d",
+  "active": "eff3d2b24727ec1c",
   "lastOpenFiles": [
     "开源项目/embedding开发关键.md",
     "encode decode测试.md",
