@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开源项目/embedding开发关键.md",
+                "file": "global variable和 embedding的测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开源项目/embedding开发关键.md",
+                "file": "global variable和 embedding的测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开源项目/embedding开发关键.md"
+                "file": "global variable和 embedding的测试.md"
               }
             }
           }
@@ -216,7 +217,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eff3d2b24727ec1c",
+  "active": "9c4c61643f87cd06",
   "lastOpenFiles": [
     "开源项目/embedding开发关键.md",
     "encode decode测试.md",
