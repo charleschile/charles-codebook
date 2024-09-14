@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "global variable和 embedding的测试.md",
+                "file": "开源项目/matrixone 开发全记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "l2",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global variable和 embedding的测试.md",
+                "file": "开源项目/matrixone 开发全记录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "global variable和 embedding的测试.md",
+                "file": "开源项目/matrixone 开发全记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global variable和 embedding的测试.md"
+                "file": "开源项目/matrixone 开发全记录.md"
               }
             }
           }
@@ -219,12 +219,12 @@
   },
   "active": "9c4c61643f87cd06",
   "lastOpenFiles": [
+    "global variable和 embedding的测试.md",
     "开源项目/embedding开发关键.md",
     "encode decode测试.md",
     "创业/键盘.md",
     "数学/线性代数.md",
     "TODO.md",
-    "global variable和 embedding的测试.md",
     "开源项目/rocketmq.md",
     "开源项目/matrixone 开发全记录.md",
     "开源项目/matrix.md",
