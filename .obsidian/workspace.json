@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "show variables",
+                "query": "show varia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,12 +150,12 @@
   },
   "active": "801c9951c4a161d2",
   "lastOpenFiles": [
+    "global variable和 embedding的测试.md",
     "开发日记9.15.md",
     "开源项目/embedding开发关键.md",
     "数学/线性代数.md",
     "TODO.md",
     "问题.md",
-    "global variable和 embedding的测试.md",
     "开源项目/matrixone 开发全记录.md",
     "encode decode测试.md",
     "创业/键盘.md",
