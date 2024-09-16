@@ -920,7 +920,7 @@ show tables;
 create table t6(a int primary key, b datalink);
 
 
-insert into t6 values(1, 'file://$resources/file_test/normal.txt?offset=0&size=3');
+insert into t6 values(1, 'file://$resources/file_test/normal.txt');
 
 
 insert into t6 values(3, 'file://$resources/file_test/normal.txt');

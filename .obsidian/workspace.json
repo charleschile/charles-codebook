@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发日记9.15.md",
+                "file": "开源项目/matrixone 开发全记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "show varia",
+                "query": "use llm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发日记9.15.md",
+                "file": "开源项目/matrixone 开发全记录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发日记9.15.md",
+                "file": "开源项目/matrixone 开发全记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发日记9.15.md"
+                "file": "开源项目/matrixone 开发全记录.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "801c9951c4a161d2",
   "lastOpenFiles": [
-    "global variable和 embedding的测试.md",
     "开发日记9.15.md",
+    "global variable和 embedding的测试.md",
     "开源项目/embedding开发关键.md",
     "数学/线性代数.md",
     "TODO.md",
