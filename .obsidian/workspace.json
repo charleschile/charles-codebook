@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "use llm",
+                "query": "416",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "801c9951c4a161d2",
+  "active": "eff3d2b24727ec1c",
   "lastOpenFiles": [
     "开发日记9.15.md",
     "global variable和 embedding的测试.md",
