@@ -837,6 +837,8 @@ show tables;
 create table t1(a int primary key, b datalink);
 
 
+file:///Users/charles/Desktop/codes/matrixone/matrixorigin.io.cn/docs/MatrixOne/Tutorial/c-net-crud-demo.md
+
 insert into t1 values(1, 'file://$resources/file_test/normal.txt?offset=0&size=3');
 
 insert into t1 values(3, 'file://$resources/file_test/normal.txt');

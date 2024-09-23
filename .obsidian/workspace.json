@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "show create",
+                "query": "create table if",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
