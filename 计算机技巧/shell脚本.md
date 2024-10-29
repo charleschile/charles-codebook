@@ -1,3 +1,55 @@
+# Shell脚本
+
+tpch脚本参考
+
+```shell
+#!/bin/bash
+# 指定使用 Bash 作为脚本的解释器
+
+write_to_file()
+{
+    # 定义一个名为 write_to_file 的函数，用于生成 SQL 文件
+
+    file="loaddata.sql"
+    # 定义一个变量 file，设置其值为 "loaddata.sql"，表示要生成的 SQL 文件的名称
+
+    if [ ! -f "$file" ] ; then
+        # 如果文件 "loaddata.sql" 不存在（使用 -f 检查文件是否存在）
+        touch "$file"
+        # 使用 touch 命令创建一个空的 "loaddata.sql" 文件
+    fi
+    
+    echo 'USE tpch;' >> $file
+    # 将 "USE tpch;" 写入 "loaddata.sql" 文件，切换到 tpch 数据库
+
+    DIR=`pwd`
+    # 使用 pwd 命令获取当前目录路径，并将结果赋值给变量 DIR
+
+    for tbl in `ls *.tbl`; do
+        # 使用 for 循环遍历当前目录中所有以 .tbl 结尾的文件
+
+        table=$(echo "${tbl%.*}" | tr '[:lower:]' '[:upper:]')
+        # 去除文件扩展名（.tbl），并将文件名转换为大写，以便与表名匹配
+
+        echo "LOAD DATA LOCAL INFILE '$DIR/$tbl' INTO TABLE $table" >> $file
+        # 将 "LOAD DATA LOCAL INFILE ..." 命令写入 "loaddata.sql" 文件，用于从 .tbl 文件导入数据到对应的表
+
+        echo "FIELDS TERMINATED BY '|' LINES TERMINATED BY '|\n';" >> $file
+        # 将 "FIELDS TERMINATED BY '|' LINES TERMINATED BY '|\n';" 写入 "loaddata.sql"，用于定义字段和行的分隔方式
+    done
+ }
+# 结束函数的定义
+
+write_to_file
+# 调用 write_to_file 函数，生成 "loaddata.sql" 文件
+
+
+```
+
+
+
+
+
 Shell 脚本是一个包含一系列命令的文本文件，用于自动化任务或执行一系列的操作。Shell 脚本通常有特定的格式和结构，以下是 Shell 脚本的一般格式。
 
 ### Shell 脚本的基本格式
