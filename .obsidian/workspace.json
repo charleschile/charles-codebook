@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "checkout",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d025e21c22348354",
+  "active": "eff3d2b24727ec1c",
   "lastOpenFiles": [
     "计算机技巧/shell脚本~.md",
     "pics/Pasted image 20241029180151.png",
