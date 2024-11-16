@@ -86,8 +86,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,12 +176,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eff3d2b24727ec1c",
+  "active": "35b0b71fd6b8fdd2",
   "lastOpenFiles": [
+    "ddia/未命名.md",
+    "计算机技巧/shell脚本.md",
     "计算机技巧/shell脚本~.md",
     "pics/Pasted image 20241029180151.png",
     "8.19 matrixone记录.md",
-    "计算机技巧/shell脚本.md",
     "计算机技巧",
     "需要整合的内容/mac配置.md",
     "美国面试/matrix origin面试准备.md",
@@ -200,7 +200,6 @@
     "Java Web/Java Web.md",
     "Java/Java设计模式.md",
     "Java/acwing01. 变量、运算符、表达式、输入与输出.md",
-    "ddia/未命名.md",
     "开源项目/matrixone 开发全记录.md",
     "开发日记9.15.md",
     "global variable和 embedding的测试.md",
