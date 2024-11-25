@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杜克/要关注哪些面经？.md",
+                "file": "美国面试/上岸技巧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "要关注哪些面经？"
+              "title": "上岸技巧"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -205,8 +204,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fcb2cb2c1f464e8a",
+  "active": "da24a257f8c0ad8b",
   "lastOpenFiles": [
+    "美国面试/美国面试技巧.md",
+    "美国面试/上岸技巧.md",
+    "美国面试/matrix origin面试准备.md",
+    "杜克/要关注哪些面经？.md",
+    "计算机技巧/shell脚本.md",
     "需要整合的内容/mac配置.md",
     "global variable和 embedding的测试.md",
     "Pasted image 20240412160319.png",
@@ -223,22 +227,17 @@
     "问题.md",
     "651 pre.md",
     "8.19 matrixone记录.md",
-    "美国面试/美国面试技巧.md",
-    "美国面试/matrix origin面试准备.md",
     "美国面试/Computer English.md",
     "0.md",
-    "杜克/要关注哪些面经？.md",
     "Java/Java基础.md",
     "杜克",
     "ddia/未命名.md",
-    "计算机技巧/shell脚本.md",
     "计算机技巧/shell脚本~.md",
     "pics/Pasted image 20241029180151.png",
     "计算机技巧",
     "数学/线性代数.md",
     "rpc项目/rpc远程过程调用.md",
     "创业/键盘.md",
-    "uiuc申请/UIUC MCS申请.md",
     "mit6.824/mapreduce.pdf",
     "pics/Pasted image 20240824174239.png",
     "pics/Pasted image 20240824174220.png",
