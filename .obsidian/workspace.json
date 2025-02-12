@@ -51,12 +51,14 @@
             "id": "fcb2cb2c1f464e8a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "mit6.824/mapreduce.pdf"
+                "file": "开源项目/matrixone 开发全记录.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "mapreduce"
+              "icon": "lucide-file",
+              "title": "matrixone 开发全记录"
             }
           }
         ],
@@ -79,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -204,12 +207,14 @@
   },
   "active": "fcb2cb2c1f464e8a",
   "lastOpenFiles": [
+    "开源项目/matrix.md",
+    "开源项目/go 项目建立运行.md",
+    "开源项目/embedding开发关键.md",
+    "mit6.824/mapreduce.pdf",
     "mit6.824/01-introduction.md",
     "美国面试/Computer English.md",
     "计算机技巧/shell脚本.md",
     "开源项目/matrixone 开发全记录.md",
-    "开源项目/matrix.md",
-    "开源项目/go 项目建立运行.md",
     "开发日记9.15.md",
     "显卡.md",
     "651 pre.md",
@@ -225,14 +230,11 @@
     "美团实习/101.新人练习题串讲-乐驰.pdf",
     "开源项目/rocketmq.md",
     "开源项目/开源项目收集.md",
-    "开源项目/embedding开发关键.md",
     "国内面试/rpc项目问题.md",
     "Problem/算法学习.md",
     "Problem/LeetCode从头刷.md",
     "Problem/Java算法cheatsheet.md",
-    "mit6.824/mapreduce.pdf",
     "杜克/要关注哪些面经？.md",
-    "global variable和 embedding的测试.md",
     "Pasted image 20240412160319.png",
     "Pasted image 20240412155944.png",
     "Pasted image 20240411161209.png",

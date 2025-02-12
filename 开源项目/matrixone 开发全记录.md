@@ -189,6 +189,8 @@ But master index seems good start for them as well.
 
 
 
+使用之前需要先make啦
+
 
 其中一个启动mo:
 ```shell
