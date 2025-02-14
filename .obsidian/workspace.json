@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "check",
+                "query": "llm_ask",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,8 +206,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fcb2cb2c1f464e8a",
+  "active": "eff3d2b24727ec1c",
   "lastOpenFiles": [
+    "开源项目/开源项目收集.md",
+    "开源项目/rocketmq.md",
+    "开源项目/matrixone 开发全记录.md",
     "开源项目/matrix.md",
     "开源项目/go 项目建立运行.md",
     "开源项目/embedding开发关键.md",
@@ -214,7 +218,6 @@
     "mit6.824/01-introduction.md",
     "美国面试/Computer English.md",
     "计算机技巧/shell脚本.md",
-    "开源项目/matrixone 开发全记录.md",
     "开发日记9.15.md",
     "显卡.md",
     "651 pre.md",
@@ -228,8 +231,6 @@
     "美团实习/医药智搜业务.md",
     "美团实习/医药串讲.pdf",
     "美团实习/101.新人练习题串讲-乐驰.pdf",
-    "开源项目/rocketmq.md",
-    "开源项目/开源项目收集.md",
     "国内面试/rpc项目问题.md",
     "Problem/算法学习.md",
     "Problem/LeetCode从头刷.md",
