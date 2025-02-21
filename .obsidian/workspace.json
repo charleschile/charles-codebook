@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -209,10 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机技巧/shell脚本.md"
+                "file": "草稿220.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "shell脚本 的大纲"
+              "title": "草稿220 的大纲"
             }
           }
         ],
