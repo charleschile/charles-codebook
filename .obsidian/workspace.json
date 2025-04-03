@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿220.md",
+                "file": "装机准备.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "草稿220"
+              "title": "装机准备"
             }
           }
         ],
@@ -147,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "33bc2eed7ae71dc2",
@@ -239,15 +238,15 @@
   },
   "active": "ce00b7218010b010",
   "lastOpenFiles": [
-    "国内面试/面试算法.md",
+    "进度对照.md",
     "草稿220.md",
+    "国内面试/面试算法.md",
     "未命名 4.md",
     "国内面试/rpc项目问题.md",
     "数学/线性代数.md",
     "global variable和 embedding的测试.md",
     "未命名 5.md",
     "草稿纸.md",
-    "进度对照.md",
     "mit6.824/mapreduce.pdf",
     "mit6.824/01-introduction.md",
     "Problem.md",
@@ -260,7 +259,7 @@
     "美国面试/Computer English.md",
     "计算机技巧/shell脚本.md",
     "开发日记9.15.md",
-    "显卡.md",
+    "装机准备.md",
     "651 pre.md",
     "bug书.md",
     "encode decode测试.md",
