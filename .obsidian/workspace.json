@@ -29,7 +29,7 @@
               "state": {
                 "currentVersion": "1.7.4"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-book-up",
               "title": "Release Notes 1.7.4"
             }
           },
@@ -89,8 +89,7 @@
               "title": "装机准备"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,13 +236,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ce00b7218010b010",
+  "active": "801c9951c4a161d2",
   "lastOpenFiles": [
+    "开源项目/matrixone 开发全记录.md",
+    "国内面试/面试算法.md",
+    "装机准备.md",
     "pics/Pasted image 20250403212925.png",
     "pics/Pasted image 20250403212655.png",
     "进度对照.md",
     "草稿220.md",
-    "国内面试/面试算法.md",
     "未命名 4.md",
     "国内面试/rpc项目问题.md",
     "数学/线性代数.md",
@@ -253,7 +254,6 @@
     "mit6.824/mapreduce.pdf",
     "mit6.824/01-introduction.md",
     "Problem.md",
-    "开源项目/matrixone 开发全记录.md",
     "开源项目/开源项目收集.md",
     "开源项目/rocketmq.md",
     "开源项目/matrix.md",
@@ -262,7 +262,6 @@
     "美国面试/Computer English.md",
     "计算机技巧/shell脚本.md",
     "开发日记9.15.md",
-    "装机准备.md",
     "651 pre.md",
     "bug书.md",
     "encode decode测试.md",
@@ -279,7 +278,6 @@
     "pics/Pasted image 20240824174220.png",
     "pics/Pasted image 20240824174155.png",
     "pics/Pasted image 20240824173802.png",
-    "pics/Pasted image 20240824172937.png",
     "数学",
     "未命名 1",
     "未命名/000_坚果云闪电下载介绍.url.nssyncsc",
