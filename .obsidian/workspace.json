@@ -89,7 +89,8 @@
               "title": "装机准备"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -236,8 +237,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "801c9951c4a161d2",
+  "active": "ce00b7218010b010",
   "lastOpenFiles": [
+    "计算机技巧/shell脚本.md",
     "开源项目/matrixone 开发全记录.md",
     "国内面试/面试算法.md",
     "装机准备.md",
@@ -260,7 +262,6 @@
     "开源项目/go 项目建立运行.md",
     "开源项目/embedding开发关键.md",
     "美国面试/Computer English.md",
-    "计算机技巧/shell脚本.md",
     "开发日记9.15.md",
     "651 pre.md",
     "bug书.md",
