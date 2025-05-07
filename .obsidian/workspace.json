@@ -88,6 +88,18 @@
               "icon": "lucide-file",
               "title": "装机准备"
             }
+          },
+          {
+            "id": "851510fe3ab2f85a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
         "currentTab": 5
